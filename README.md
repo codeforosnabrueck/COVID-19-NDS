@@ -26,7 +26,7 @@ Die Struktur dieses Repos ist angelehnt an das Projekt der Johns Hopkins Univers
 
 ## Datenquellen
 * Ammerland: https://www.ammerland.de/Aktuelles/Topthemen/Coronavirus/, https://www.ammerland.de/Aktuelles/Presse-%C3%96ffentlichkeit/Pressemitteilungen
-* Aurich: https://www.landkreis-aurich.de/aktuelles.html
+* Aurich: https://www.landkreis-aurich.de/aktuelles.html, https://www.landkreis-aurich.de/soziales-gesundheit/gesundheit/aktuelle-informationen-zum-thema-corona.html
 * Braunschweig (Stadt): https://www.braunschweig.de/politik_verwaltung/nachrichten/corona.php
 * Celle: https://www.landkreis-celle.de/informationen-und-oeffentlichkeitsarbeit/der-landkreis-informiert.html
 * Cloppenburg: https://lkclp.de/aktuelles-presse/pressemitteilungen.php
