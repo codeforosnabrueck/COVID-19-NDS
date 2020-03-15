@@ -1,27 +1,25 @@
-(!) Broken table due to commas in links, will be fixed as soon as possible
-
 Kommune,Last Update Day,Last Update Time,Confirmed,Deaths,Recovered,Quarantine,Source (Link),
 Ammerland,3/14/20,13:00:00,7,,,,https://www.ammerland.de/Aktuelles/Topthemen/Coronavirus/,
 Aurich,3/11/20,,3,,,,https://www.landkreis-aurich.de/aktuelles/detail/corona-faelle-im-landkreis-aurich.html,
 Braunschweig,3/14/20,,5,,,,https://www.braunschweig.de/politik_verwaltung/nachrichten/corona.php,
 Celle,,,,,,,,
 Cloppenburg,3/14/20,,2,,,,https://lkclp.de/aktuelles-presse/pressemitteilungen.php?aid=3310,
-Cuxhaven,3/13/20,,5,,,,https://www.landkreis-cuxhaven.de/Corona/F%C3%BCnfter-best%C3%A4tigter-Corona-Fall-im-Landkreis-Cuxhaven.php?object=tx,2736.6&ModID=7&FID=3189.708.1&NavID=3189.26&La=1
+Cuxhaven,3/13/20,,5,,,,https://www.landkreis-cuxhaven.de/Corona/F%C3%BCnfter-best%C3%A4tigter-Corona-Fall-im-Landkreis-Cuxhaven.php?object=tx%2C2736.6&ModID=7&FID=3189.708.1&NavID=3189.26&La=1,
 Delmenhorst (Stadt),,,,,,,,
 Diepholz,3/14/20,,21,,,,https://www.diepholz.de/portal/meldungen/zahl-der-corona-erkrankten-steigt-im-landkreis-diepholz-auf-21-personen-900004935-21750.html?rubrik=900000022,
-Emden (Stadt),3/13/20,,3,,,,21,https://www.emden.de/aktuell/coronavirus-aktuelle-informationen-1-1
+Emden (Stadt),3/13/20,,3,,,21,https://www.emden.de/aktuell/coronavirus-aktuelle-informationen-1-1,
 Emsland,3/14/20,11:00:00,10,,,,https://www.emsland.de/buerger-behoerde/aktuell/coronavirus/das-coronavirus.html,
 Friesland,3/9/20,,2,,,,https://www.friesland.de/portal/meldungen/coronavirus-erster-bestaetigter-fall-im-landkreis-friesland-901004199-20800.html?rubrik=901000006,
 Gifhorn,3/13/20,,7,,,,https://www.gifhorn.de/start/nachricht-startseite/news/zwei-weitere-coronafaelle-im-landkreis-gifhorn-notfallbetreuung-in-allen-schulen-und-kindertagesstae/,
-Goslar,3/14/20,,5,,,,https://www.landkreis-goslar.de/index.phtml?object=tx,1749.10&ModID=7&FID=94.13479.1&mNavID=1749.9&sNavID=94.35
+Goslar,3/14/20,,5,,,,https://www.landkreis-goslar.de/index.phtml?object=tx%2C1749.10&ModID=7&FID=94.13479.1&mNavID=1749.9&sNavID=94.35,
 Göttingen,,,,,,,,
 Grafschaft Bentheim,3/14/20,,5,,,,https://www.grafschaft-bentheim.de/magazin/magazin.php?menuid=893&topmenu=893,
 Hameln-Pyrmont,3/13/20,16:00:00,60,,,,https://www.hameln-pyrmont.de/Landkreis/3-Corona-Fall-im-Landkreis-Hameln-Pyrmont.php?object=tx,
-Hannover (Region),3/14/20,,3,,,,https://www.hannover.de/Leben-in-der-Region-Hannover/Verwaltungen-Kommunen/Die-Verwaltung-der-Region-Hannover/Region-Hannover/Aktuelle-Informationen-zum-Coronavirus,2561.5&ModID=7&FID=2749.5577.1&NavID=2561.7
+Hannover (Region),3/14/20,,3,,,,https://www.hannover.de/Leben-in-der-Region-Hannover/Verwaltungen-Kommunen/Die-Verwaltung-der-Region-Hannover/Region-Hannover/Aktuelle-Informationen-zum-Coronavirus%2C2561.5&ModID=7&FID=2749.5577.1&NavID=2561.7,
 Harburg,,,,,,,,
 Heidekreis,,,,,,,,
 Helmstedt,3/13/20,,2,,,,https://www.helmstedt.de/magazin/artikel.php?artikel=3717&menuid=483&topmenu=625&date=2020-03-13,
-Hildesheim,3/12/20,17:00:00,7,,,59,https://www.landkreishildesheim.de/-Landkreis-Corona-Aktuelle-Informationen-aus-dem-Kreishaus.php?object=tx,2829.5&ModID=7&mobile=off&FID=2829.3102.1
+Hildesheim,3/12/20,17:00:00,7,,,59,https://www.landkreishildesheim.de/-Landkreis-Corona-Aktuelle-Informationen-aus-dem-Kreishaus.php?object=tx%2C2829.5&ModID=7&mobile=off&FID=2829.3102.1,
 Holzminden,3/11/20,15:00:00,1,,,,https://www.landkreis-holzminden.de/portal/meldungen/erster-corona-fall-im-landkreis-holzminden-bestaetigt-900000618-25600.html?rubrik=900000001,
 Leer,3/4/20,09:00:00,1,,,,http://www.presse-service.de/data.aspx/static/1038690.html,
 Lüchow-Dannenberg,3/14/20,12:30:00,0,0,0,1,https://www.luechow-dannenberg.de/home/aktuelles/pressemitteilungen/coronavirus-aktuelle-lage-14-03-2020-11-30-uhr-0.aspx,
@@ -32,7 +30,7 @@ Oldenburg (Stadt),,,,,,,,
 Oldenburg,,,,,,,,
 Osnabrück (Stadt und Landkreis),3/14/20,,58,,,ca. 200,https://www.osnabrueck.de/coronavirus/,
 Osterholz,3/13/20,,12,,,,https://www.landkreis-osterholz.de/portal/meldungen/drei-weitere-coronafaelle-im-landkreis-osterholz-901005059-21000.html?rubrik=901000012,
-Peine,3/13/20,,2,,,,https://www.landkreis-peine.de/Aktuelles-B%C3%BCrgerservice/Archiv-Pressemitteilungen/Zwei-best%C3%A4tigte-Corona-F%C3%A4lle-im-Landkreis-Peine.php?object=tx,2555.5.1&ModID=7&FID=2555.6489.1&NavID=2555.17&La=1
+Peine,3/13/20,,2,,,,https://www.landkreis-peine.de/Aktuelles-B%C3%BCrgerservice/Archiv-Pressemitteilungen/Zwei-best%C3%A4tigte-Corona-F%C3%A4lle-im-Landkreis-Peine.php?object=tx%2C2555.5.1&ModID=7&FID=2555.6489.1&NavID=2555.17&La=1,
 Rotenburg (Wümme),3/13/20,13:00:00,7,,,,https://www.lk-row.de/portal/seiten/coronavirus-sars-cov-2--900000145-23700.html?rubrik=1007,
 Salzgitter (Stadt),3/13/20,18:10:00,2,,,42,https://www.salzgitter.de/rathaus/news/presse-nachrichten.php,
 Schaumburg,3/11/20,,2,,,,https://www.schaumburg.de/Aktuelles/Coronavirus,
