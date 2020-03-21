@@ -1,0 +1,5028 @@
+{
+	"objectIdFieldName": "OBJECTID",
+	"uniqueIdField": {
+		"name": "OBJECTID",
+		"isSystemMaintained": true
+	},
+	"globalIdFieldName": "",
+	"geometryType": "esriGeometryPolygon",
+	"spatialReference": {
+		"wkid": 4326,
+		"latestWkid": 4326
+	},
+	"fields": [
+		{
+			"name": "death_rate",
+			"type": "esriFieldTypeDouble",
+			"alias": "Sterberate",
+			"sqlType": "sqlTypeOther",
+			"domain": null,
+			"defaultValue": null
+		},
+		{
+			"name": "cases",
+			"type": "esriFieldTypeInteger",
+			"alias": "Anzahl Fälle",
+			"sqlType": "sqlTypeOther",
+			"domain": null,
+			"defaultValue": null
+		},
+		{
+			"name": "deaths",
+			"type": "esriFieldTypeInteger",
+			"alias": "Anzahl Todesfälle",
+			"sqlType": "sqlTypeOther",
+			"domain": null,
+			"defaultValue": null
+		},
+		{
+			"name": "cases_per_100k",
+			"type": "esriFieldTypeDouble",
+			"alias": "Fälle pro 100.000 Einwohner",
+			"sqlType": "sqlTypeOther",
+			"domain": null,
+			"defaultValue": null
+		},
+		{
+			"name": "cases_per_population",
+			"type": "esriFieldTypeDouble",
+			"alias": "Betroffenenrate",
+			"sqlType": "sqlTypeOther",
+			"domain": null,
+			"defaultValue": null
+		},
+		{
+			"name": "BL",
+			"type": "esriFieldTypeString",
+			"alias": "Bundesland",
+			"sqlType": "sqlTypeOther",
+			"length": 256,
+			"domain": null,
+			"defaultValue": null
+		},
+		{
+			"name": "BL_ID",
+			"type": "esriFieldTypeString",
+			"alias": "Bundesland ID",
+			"sqlType": "sqlTypeOther",
+			"length": 256,
+			"domain": null,
+			"defaultValue": null
+		},
+		{
+			"name": "county",
+			"type": "esriFieldTypeString",
+			"alias": "Landkreis",
+			"sqlType": "sqlTypeOther",
+			"length": 256,
+			"domain": null,
+			"defaultValue": null
+		}
+	],
+	"features": [
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 12,
+				"deaths": 0,
+				"cases_per_100k": 13.4072220235967,
+				"cases_per_population": 0.0134072220235967,
+				"BL": "Schleswig-Holstein",
+				"BL_ID": "1",
+				"county": "SK Flensburg"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 36,
+				"deaths": 0,
+				"cases_per_100k": 14.5426341558001,
+				"cases_per_population": 0.0145426341558001,
+				"BL": "Schleswig-Holstein",
+				"BL_ID": "1",
+				"county": "SK Kiel"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 4.76190476190476,
+				"cases": 21,
+				"deaths": 1,
+				"cases_per_100k": 9.66859731673404,
+				"cases_per_population": 0.00966859731673404,
+				"BL": "Schleswig-Holstein",
+				"BL_ID": "1",
+				"county": "SK Lübeck"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 1,
+				"deaths": 0,
+				"cases_per_100k": 1.25806735692629,
+				"cases_per_population": 0.00125806735692629,
+				"BL": "Schleswig-Holstein",
+				"BL_ID": "1",
+				"county": "SK Neumünster"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 12,
+				"deaths": 0,
+				"cases_per_100k": 9.00833270775467,
+				"cases_per_population": 0.00900833270775467,
+				"BL": "Schleswig-Holstein",
+				"BL_ID": "1",
+				"county": "LK Dithmarschen"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 21,
+				"deaths": 0,
+				"cases_per_100k": 10.6456322491686,
+				"cases_per_population": 0.0106456322491686,
+				"BL": "Schleswig-Holstein",
+				"BL_ID": "1",
+				"county": "LK Herzogtum Lauenburg"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 15,
+				"deaths": 0,
+				"cases_per_100k": 9.06306077688557,
+				"cases_per_population": 0.00906306077688557,
+				"BL": "Schleswig-Holstein",
+				"BL_ID": "1",
+				"county": "LK Nordfriesland"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 11,
+				"deaths": 0,
+				"cases_per_100k": 5.48406878019354,
+				"cases_per_population": 0.00548406878019354,
+				"BL": "Schleswig-Holstein",
+				"BL_ID": "1",
+				"county": "LK Ostholstein"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 62,
+				"deaths": 0,
+				"cases_per_100k": 19.7206663040609,
+				"cases_per_population": 0.0197206663040609,
+				"BL": "Schleswig-Holstein",
+				"BL_ID": "1",
+				"county": "LK Pinneberg"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 12,
+				"deaths": 0,
+				"cases_per_100k": 9.32785063001858,
+				"cases_per_population": 0.00932785063001858,
+				"BL": "Schleswig-Holstein",
+				"BL_ID": "1",
+				"county": "LK Plön"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 30,
+				"deaths": 0,
+				"cases_per_100k": 10.9980753368161,
+				"cases_per_population": 0.0109980753368161,
+				"BL": "Schleswig-Holstein",
+				"BL_ID": "1",
+				"county": "LK Rendsburg-Eckernförde"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 24,
+				"deaths": 0,
+				"cases_per_100k": 11.9985001874766,
+				"cases_per_population": 0.0119985001874766,
+				"BL": "Schleswig-Holstein",
+				"BL_ID": "1",
+				"county": "LK Schleswig-Flensburg"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 27,
+				"deaths": 0,
+				"cases_per_100k": 9.78147461163923,
+				"cases_per_population": 0.00978147461163923,
+				"BL": "Schleswig-Holstein",
+				"BL_ID": "1",
+				"county": "LK Segeberg"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 12,
+				"deaths": 0,
+				"cases_per_100k": 9.13610512611632,
+				"cases_per_population": 0.00913610512611632,
+				"BL": "Schleswig-Holstein",
+				"BL_ID": "1",
+				"county": "LK Steinburg"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 12,
+				"deaths": 0,
+				"cases_per_100k": 4.93429168242899,
+				"cases_per_population": 0.00493429168242899,
+				"BL": "Schleswig-Holstein",
+				"BL_ID": "1",
+				"county": "LK Stormarn"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 587,
+				"deaths": 0,
+				"cases_per_100k": 31.8817453381773,
+				"cases_per_population": 0.0318817453381773,
+				"BL": "Hamburg",
+				"BL_ID": "2",
+				"county": "SK Hamburg"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 12,
+				"deaths": 0,
+				"cases_per_100k": 4.83301918708617,
+				"cases_per_population": 0.00483301918708617,
+				"BL": "Niedersachsen",
+				"BL_ID": "3",
+				"county": "SK Braunschweig"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 8,
+				"deaths": 0,
+				"cases_per_100k": 7.62282273125738,
+				"cases_per_population": 0.00762282273125739,
+				"BL": "Niedersachsen",
+				"BL_ID": "3",
+				"county": "SK Salzgitter"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 9,
+				"deaths": 0,
+				"cases_per_100k": 7.24923681645738,
+				"cases_per_population": 0.00724923681645738,
+				"BL": "Niedersachsen",
+				"BL_ID": "3",
+				"county": "SK Wolfsburg"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 27,
+				"deaths": 0,
+				"cases_per_100k": 15.3478854024557,
+				"cases_per_population": 0.0153478854024557,
+				"BL": "Niedersachsen",
+				"BL_ID": "3",
+				"county": "LK Gifhorn"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 18,
+				"deaths": 0,
+				"cases_per_100k": 13.1373436291182,
+				"cases_per_population": 0.0131373436291182,
+				"BL": "Niedersachsen",
+				"BL_ID": "3",
+				"county": "LK Goslar"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 11,
+				"deaths": 0,
+				"cases_per_100k": 12.0472691031356,
+				"cases_per_population": 0.0120472691031356,
+				"BL": "Niedersachsen",
+				"BL_ID": "3",
+				"county": "LK Helmstedt"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 12,
+				"deaths": 0,
+				"cases_per_100k": 9.03852672014462,
+				"cases_per_population": 0.00903852672014462,
+				"BL": "Niedersachsen",
+				"BL_ID": "3",
+				"county": "LK Northeim"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 13,
+				"deaths": 0,
+				"cases_per_100k": 9.70402717127608,
+				"cases_per_population": 0.00970402717127608,
+				"BL": "Niedersachsen",
+				"BL_ID": "3",
+				"county": "LK Peine"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 3,
+				"deaths": 0,
+				"cases_per_100k": 2.50083361120373,
+				"cases_per_population": 0.00250083361120373,
+				"BL": "Niedersachsen",
+				"BL_ID": "3",
+				"county": "LK Wolfenbüttel"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 42,
+				"deaths": 0,
+				"cases_per_100k": 12.8019897949853,
+				"cases_per_population": 0.0128019897949853,
+				"BL": "Niedersachsen",
+				"BL_ID": "3",
+				"county": "LK Göttingen"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 113,
+				"deaths": 0,
+				"cases_per_100k": 9.76137329564695,
+				"cases_per_population": 0.00976137329564695,
+				"BL": "Niedersachsen",
+				"BL_ID": "3",
+				"county": "Region Hannover"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 44,
+				"deaths": 0,
+				"cases_per_100k": 20.2871554641609,
+				"cases_per_population": 0.0202871554641609,
+				"BL": "Niedersachsen",
+				"BL_ID": "3",
+				"county": "LK Diepholz"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 18,
+				"deaths": 0,
+				"cases_per_100k": 12.1163981986955,
+				"cases_per_population": 0.0121163981986955,
+				"BL": "Niedersachsen",
+				"BL_ID": "3",
+				"county": "LK Hameln-Pyrmont"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 33,
+				"deaths": 0,
+				"cases_per_100k": 11.9308444868652,
+				"cases_per_population": 0.0119308444868652,
+				"BL": "Niedersachsen",
+				"BL_ID": "3",
+				"county": "LK Hildesheim"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 19,
+				"deaths": 0,
+				"cases_per_100k": 26.7699894328989,
+				"cases_per_population": 0.026769989432898903,
+				"BL": "Niedersachsen",
+				"BL_ID": "3",
+				"county": "LK Holzminden"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 12,
+				"deaths": 0,
+				"cases_per_100k": 9.88581879294153,
+				"cases_per_population": 0.00988581879294153,
+				"BL": "Niedersachsen",
+				"BL_ID": "3",
+				"county": "LK Nienburg (Weser)"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 21,
+				"deaths": 0,
+				"cases_per_100k": 13.3095873394135,
+				"cases_per_population": 0.0133095873394135,
+				"BL": "Niedersachsen",
+				"BL_ID": "3",
+				"county": "LK Schaumburg"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 26,
+				"deaths": 0,
+				"cases_per_100k": 14.5303348683328,
+				"cases_per_population": 0.0145303348683328,
+				"BL": "Niedersachsen",
+				"BL_ID": "3",
+				"county": "LK Celle"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 23,
+				"deaths": 0,
+				"cases_per_100k": 11.6036788707098,
+				"cases_per_population": 0.0116036788707098,
+				"BL": "Niedersachsen",
+				"BL_ID": "3",
+				"county": "LK Cuxhaven"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 52,
+				"deaths": 0,
+				"cases_per_100k": 20.5715732506251,
+				"cases_per_population": 0.0205715732506251,
+				"BL": "Niedersachsen",
+				"BL_ID": "3",
+				"county": "LK Harburg"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 5,
+				"deaths": 0,
+				"cases_per_100k": 10.3254584503552,
+				"cases_per_population": 0.0103254584503552,
+				"BL": "Niedersachsen",
+				"BL_ID": "3",
+				"county": "LK Lüchow-Dannenberg"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 49,
+				"deaths": 0,
+				"cases_per_100k": 26.7216368911284,
+				"cases_per_population": 0.0267216368911284,
+				"BL": "Niedersachsen",
+				"BL_ID": "3",
+				"county": "LK Lüneburg"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 23,
+				"deaths": 0,
+				"cases_per_100k": 20.2612824510866,
+				"cases_per_population": 0.0202612824510866,
+				"BL": "Niedersachsen",
+				"BL_ID": "3",
+				"county": "LK Osterholz"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 21,
+				"deaths": 0,
+				"cases_per_100k": 12.8475727264385,
+				"cases_per_population": 0.0128475727264385,
+				"BL": "Niedersachsen",
+				"BL_ID": "3",
+				"county": "LK Rotenburg (Wümme)"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 4,
+				"deaths": 0,
+				"cases_per_100k": 2.8621516224822,
+				"cases_per_population": 0.0028621516224822,
+				"BL": "Niedersachsen",
+				"BL_ID": "3",
+				"county": "LK Heidekreis"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 44,
+				"deaths": 0,
+				"cases_per_100k": 21.6639914919597,
+				"cases_per_population": 0.0216639914919597,
+				"BL": "Niedersachsen",
+				"BL_ID": "3",
+				"county": "LK Stade"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 5,
+				"deaths": 0,
+				"cases_per_100k": 5.40120122715292,
+				"cases_per_population": 0.00540120122715292,
+				"BL": "Niedersachsen",
+				"BL_ID": "3",
+				"county": "LK Uelzen"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 22,
+				"deaths": 0,
+				"cases_per_100k": 16.0828118603427,
+				"cases_per_population": 0.0160828118603427,
+				"BL": "Niedersachsen",
+				"BL_ID": "3",
+				"county": "LK Verden"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 6,
+				"deaths": 0,
+				"cases_per_100k": 7.73126135529012,
+				"cases_per_population": 0.00773126135529012,
+				"BL": "Niedersachsen",
+				"BL_ID": "3",
+				"county": "SK Delmenhorst"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 7,
+				"deaths": 0,
+				"cases_per_100k": 13.9456121127602,
+				"cases_per_population": 0.0139456121127602,
+				"BL": "Niedersachsen",
+				"BL_ID": "3",
+				"county": "SK Emden"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 21,
+				"deaths": 0,
+				"cases_per_100k": 12.4843945068664,
+				"cases_per_population": 0.0124843945068664,
+				"BL": "Niedersachsen",
+				"BL_ID": "3",
+				"county": "SK Oldenburg"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 75,
+				"deaths": 0,
+				"cases_per_100k": 45.5240731298711,
+				"cases_per_population": 0.0455240731298711,
+				"BL": "Niedersachsen",
+				"BL_ID": "3",
+				"county": "SK Osnabrück"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 5,
+				"deaths": 0,
+				"cases_per_100k": 6.5549699782375,
+				"cases_per_population": 0.0065549699782375,
+				"BL": "Niedersachsen",
+				"BL_ID": "3",
+				"county": "SK Wilhelmshaven"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 13,
+				"deaths": 0,
+				"cases_per_100k": 10.4778715412949,
+				"cases_per_population": 0.0104778715412949,
+				"BL": "Niedersachsen",
+				"BL_ID": "3",
+				"county": "LK Ammerland"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 19,
+				"deaths": 0,
+				"cases_per_100k": 10.0080064051241,
+				"cases_per_population": 0.0100080064051241,
+				"BL": "Niedersachsen",
+				"BL_ID": "3",
+				"county": "LK Aurich"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 3,
+				"deaths": 0,
+				"cases_per_100k": 1.77150010629001,
+				"cases_per_population": 0.00177150010629001,
+				"BL": "Niedersachsen",
+				"BL_ID": "3",
+				"county": "LK Cloppenburg"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 30,
+				"deaths": 0,
+				"cases_per_100k": 9.21214652226115,
+				"cases_per_population": 0.00921214652226115,
+				"BL": "Niedersachsen",
+				"BL_ID": "3",
+				"county": "LK Emsland"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 3,
+				"deaths": 0,
+				"cases_per_100k": 3.04692260816575,
+				"cases_per_population": 0.00304692260816575,
+				"BL": "Niedersachsen",
+				"BL_ID": "3",
+				"county": "LK Friesland"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 21,
+				"deaths": 0,
+				"cases_per_100k": 15.3833756986616,
+				"cases_per_population": 0.0153833756986616,
+				"BL": "Niedersachsen",
+				"BL_ID": "3",
+				"county": "LK Grafschaft Bentheim"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 11,
+				"deaths": 0,
+				"cases_per_100k": 6.47786630861733,
+				"cases_per_population": 0.00647786630861733,
+				"BL": "Niedersachsen",
+				"BL_ID": "3",
+				"county": "LK Leer"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 14,
+				"deaths": 0,
+				"cases_per_100k": 10.7573149741824,
+				"cases_per_population": 0.0107573149741824,
+				"BL": "Niedersachsen",
+				"BL_ID": "3",
+				"county": "LK Oldenburg"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 64,
+				"deaths": 0,
+				"cases_per_100k": 17.909963256591,
+				"cases_per_population": 0.017909963256591,
+				"BL": "Niedersachsen",
+				"BL_ID": "3",
+				"county": "LK Osnabrück"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 33,
+				"deaths": 0,
+				"cases_per_100k": 23.3054139182757,
+				"cases_per_population": 0.0233054139182757,
+				"BL": "Niedersachsen",
+				"BL_ID": "3",
+				"county": "LK Vechta"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 5,
+				"deaths": 0,
+				"cases_per_100k": 5.64181260155263,
+				"cases_per_population": 0.00564181260155263,
+				"BL": "Niedersachsen",
+				"BL_ID": "3",
+				"county": "LK Wesermarsch"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 4,
+				"deaths": 0,
+				"cases_per_100k": 7.03210154354629,
+				"cases_per_population": 0.00703210154354629,
+				"BL": "Niedersachsen",
+				"BL_ID": "3",
+				"county": "LK Wittmund"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 127,
+				"deaths": 0,
+				"cases_per_100k": 22.3060602228498,
+				"cases_per_population": 0.0223060602228498,
+				"BL": "Bremen",
+				"BL_ID": "4",
+				"county": "SK Bremen"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 15,
+				"deaths": 0,
+				"cases_per_100k": 13.200274565711,
+				"cases_per_population": 0.013200274565711,
+				"BL": "Bremen",
+				"BL_ID": "4",
+				"county": "SK Bremerhaven"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 155,
+				"deaths": 0,
+				"cases_per_100k": 25.0285001953838,
+				"cases_per_population": 0.0250285001953838,
+				"BL": "Nordrhein-Westfalen",
+				"BL_ID": "5",
+				"county": "SK Düsseldorf"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 55,
+				"deaths": 0,
+				"cases_per_100k": 11.0311077237811,
+				"cases_per_population": 0.0110311077237811,
+				"BL": "Nordrhein-Westfalen",
+				"BL_ID": "5",
+				"county": "SK Duisburg"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 1.72413793103448,
+				"cases": 58,
+				"deaths": 1,
+				"cases_per_100k": 9.94668235269907,
+				"cases_per_population": 0.00994668235269907,
+				"BL": "Nordrhein-Westfalen",
+				"BL_ID": "5",
+				"county": "SK Essen"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 41,
+				"deaths": 0,
+				"cases_per_100k": 18.060082812087,
+				"cases_per_population": 0.018060082812087,
+				"BL": "Nordrhein-Westfalen",
+				"BL_ID": "5",
+				"county": "SK Krefeld"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 35,
+				"deaths": 0,
+				"cases_per_100k": 13.3866760500891,
+				"cases_per_population": 0.0133866760500891,
+				"BL": "Nordrhein-Westfalen",
+				"BL_ID": "5",
+				"county": "SK Mönchengladbach"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 17,
+				"deaths": 0,
+				"cases_per_100k": 9.94850187265918,
+				"cases_per_population": 0.00994850187265918,
+				"BL": "Nordrhein-Westfalen",
+				"BL_ID": "5",
+				"county": "SK Mülheim a.d.Ruhr"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 11,
+				"deaths": 0,
+				"cases_per_100k": 5.217498541472,
+				"cases_per_population": 0.005217498541472,
+				"BL": "Nordrhein-Westfalen",
+				"BL_ID": "5",
+				"county": "SK Oberhausen"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 13,
+				"deaths": 0,
+				"cases_per_100k": 11.7123448114312,
+				"cases_per_population": 0.0117123448114312,
+				"BL": "Nordrhein-Westfalen",
+				"BL_ID": "5",
+				"county": "SK Remscheid"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 9,
+				"deaths": 0,
+				"cases_per_100k": 5.64759036144578,
+				"cases_per_population": 0.00564759036144578,
+				"BL": "Nordrhein-Westfalen",
+				"BL_ID": "5",
+				"county": "SK Solingen"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 37,
+				"deaths": 0,
+				"cases_per_100k": 10.4407108713196,
+				"cases_per_population": 0.0104407108713196,
+				"BL": "Nordrhein-Westfalen",
+				"BL_ID": "5",
+				"county": "SK Wuppertal"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 69,
+				"deaths": 0,
+				"cases_per_100k": 22.1883501514596,
+				"cases_per_population": 0.0221883501514596,
+				"BL": "Nordrhein-Westfalen",
+				"BL_ID": "5",
+				"county": "LK Kleve"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 72,
+				"deaths": 0,
+				"cases_per_100k": 14.824453760058,
+				"cases_per_population": 0.014824453760058,
+				"BL": "Nordrhein-Westfalen",
+				"BL_ID": "5",
+				"county": "LK Mettmann"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 38,
+				"deaths": 0,
+				"cases_per_100k": 8.42558984672078,
+				"cases_per_population": 0.00842558984672078,
+				"BL": "Nordrhein-Westfalen",
+				"BL_ID": "5",
+				"county": "LK Rhein-Kreis Neuss"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 39,
+				"deaths": 0,
+				"cases_per_100k": 13.0463144161774,
+				"cases_per_population": 0.0130463144161774,
+				"BL": "Nordrhein-Westfalen",
+				"BL_ID": "5",
+				"county": "LK Viersen"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 66,
+				"deaths": 0,
+				"cases_per_100k": 14.3537860285466,
+				"cases_per_population": 0.0143537860285466,
+				"BL": "Nordrhein-Westfalen",
+				"BL_ID": "5",
+				"county": "LK Wesel"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 73,
+				"deaths": 0,
+				"cases_per_100k": 22.3065593507263,
+				"cases_per_population": 0.0223065593507263,
+				"BL": "Nordrhein-Westfalen",
+				"BL_ID": "5",
+				"county": "SK Bonn"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 225,
+				"deaths": 0,
+				"cases_per_100k": 20.7246440887788,
+				"cases_per_population": 0.0207246440887788,
+				"BL": "Nordrhein-Westfalen",
+				"BL_ID": "5",
+				"county": "SK Köln"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 29,
+				"deaths": 0,
+				"cases_per_100k": 17.7004113819749,
+				"cases_per_population": 0.0177004113819749,
+				"BL": "Nordrhein-Westfalen",
+				"BL_ID": "5",
+				"county": "SK Leverkusen"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 178,
+				"deaths": 0,
+				"cases_per_100k": 32.0452233714095,
+				"cases_per_population": 0.0320452233714095,
+				"BL": "Nordrhein-Westfalen",
+				"BL_ID": "5",
+				"county": "StadtRegion Aachen"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 41,
+				"deaths": 0,
+				"cases_per_100k": 15.5466741492936,
+				"cases_per_population": 0.0155466741492936,
+				"BL": "Nordrhein-Westfalen",
+				"BL_ID": "5",
+				"county": "LK Düren"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 48,
+				"deaths": 0,
+				"cases_per_100k": 10.2108324168402,
+				"cases_per_population": 0.0102108324168402,
+				"BL": "Nordrhein-Westfalen",
+				"BL_ID": "5",
+				"county": "LK Rhein-Erft-Kreis"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 13,
+				"deaths": 0,
+				"cases_per_100k": 6.74133997096038,
+				"cases_per_population": 0.00674133997096038,
+				"BL": "Nordrhein-Westfalen",
+				"BL_ID": "5",
+				"county": "LK Euskirchen"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0.619578686493185,
+				"cases": 807,
+				"deaths": 5,
+				"cases_per_100k": 317.314270884941,
+				"cases_per_population": 0.317314270884941,
+				"BL": "Nordrhein-Westfalen",
+				"BL_ID": "5",
+				"county": "LK Heinsberg"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 50,
+				"deaths": 0,
+				"cases_per_100k": 18.3505767586275,
+				"cases_per_population": 0.0183505767586275,
+				"BL": "Nordrhein-Westfalen",
+				"BL_ID": "5",
+				"county": "LK Oberbergischer Kreis"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 48,
+				"deaths": 0,
+				"cases_per_100k": 16.9339048526221,
+				"cases_per_population": 0.0169339048526221,
+				"BL": "Nordrhein-Westfalen",
+				"BL_ID": "5",
+				"county": "LK Rheinisch-Bergischer Kreis"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 30,
+				"deaths": 0,
+				"cases_per_100k": 5.00183400580213,
+				"cases_per_population": 0.00500183400580213,
+				"BL": "Nordrhein-Westfalen",
+				"BL_ID": "5",
+				"county": "LK Rhein-Sieg-Kreis"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 9,
+				"deaths": 0,
+				"cases_per_100k": 7.66720905071433,
+				"cases_per_population": 0.00766720905071433,
+				"BL": "Nordrhein-Westfalen",
+				"BL_ID": "5",
+				"county": "SK Bottrop"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 13,
+				"deaths": 0,
+				"cases_per_100k": 4.98745463334535,
+				"cases_per_population": 0.00498745463334535,
+				"BL": "Nordrhein-Westfalen",
+				"BL_ID": "5",
+				"county": "SK Gelsenkirchen"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 124,
+				"deaths": 0,
+				"cases_per_100k": 39.4503673020085,
+				"cases_per_population": 0.0394503673020085,
+				"BL": "Nordrhein-Westfalen",
+				"BL_ID": "5",
+				"county": "SK Münster"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 131,
+				"deaths": 0,
+				"cases_per_100k": 35.3408367415209,
+				"cases_per_population": 0.0353408367415209,
+				"BL": "Nordrhein-Westfalen",
+				"BL_ID": "5",
+				"county": "LK Borken"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 70,
+				"deaths": 0,
+				"cases_per_100k": 31.8284537282487,
+				"cases_per_population": 0.0318284537282487,
+				"BL": "Nordrhein-Westfalen",
+				"BL_ID": "5",
+				"county": "LK Coesfeld"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 72,
+				"deaths": 0,
+				"cases_per_100k": 11.7023507096988,
+				"cases_per_population": 0.0117023507096988,
+				"BL": "Nordrhein-Westfalen",
+				"BL_ID": "5",
+				"county": "LK Recklinghausen"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 100,
+				"deaths": 0,
+				"cases_per_100k": 22.3406774587033,
+				"cases_per_population": 0.0223406774587033,
+				"BL": "Nordrhein-Westfalen",
+				"BL_ID": "5",
+				"county": "LK Steinfurt"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 83,
+				"deaths": 0,
+				"cases_per_100k": 29.8794382665606,
+				"cases_per_population": 0.0298794382665606,
+				"BL": "Nordrhein-Westfalen",
+				"BL_ID": "5",
+				"county": "LK Warendorf"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 11,
+				"deaths": 0,
+				"cases_per_100k": 3.29552467748797,
+				"cases_per_population": 0.00329552467748797,
+				"BL": "Nordrhein-Westfalen",
+				"BL_ID": "5",
+				"county": "SK Bielefeld"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 101,
+				"deaths": 0,
+				"cases_per_100k": 27.740927206159,
+				"cases_per_population": 0.027740927206159,
+				"BL": "Nordrhein-Westfalen",
+				"BL_ID": "5",
+				"county": "LK Gütersloh"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 35,
+				"deaths": 0,
+				"cases_per_100k": 13.9562889031553,
+				"cases_per_population": 0.0139562889031553,
+				"BL": "Nordrhein-Westfalen",
+				"BL_ID": "5",
+				"county": "LK Herford"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 2,
+				"deaths": 0,
+				"cases_per_100k": 1.42179757867872,
+				"cases_per_population": 0.00142179757867872,
+				"BL": "Nordrhein-Westfalen",
+				"BL_ID": "5",
+				"county": "LK Höxter"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 103,
+				"deaths": 0,
+				"cases_per_100k": 29.5644835831006,
+				"cases_per_population": 0.0295644835831006,
+				"BL": "Nordrhein-Westfalen",
+				"BL_ID": "5",
+				"county": "LK Lippe"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 111,
+				"deaths": 0,
+				"cases_per_100k": 35.7246306845612,
+				"cases_per_population": 0.0357246306845612,
+				"BL": "Nordrhein-Westfalen",
+				"BL_ID": "5",
+				"county": "LK Minden-Lübbecke"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 36,
+				"deaths": 0,
+				"cases_per_100k": 11.7305875069243,
+				"cases_per_population": 0.0117305875069243,
+				"BL": "Nordrhein-Westfalen",
+				"BL_ID": "5",
+				"county": "LK Paderborn"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 34,
+				"deaths": 0,
+				"cases_per_100k": 9.32457189244929,
+				"cases_per_population": 0.00932457189244929,
+				"BL": "Nordrhein-Westfalen",
+				"BL_ID": "5",
+				"county": "SK Bochum"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 64,
+				"deaths": 0,
+				"cases_per_100k": 10.90271034565,
+				"cases_per_population": 0.01090271034565,
+				"BL": "Nordrhein-Westfalen",
+				"BL_ID": "5",
+				"county": "SK Dortmund"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 11,
+				"deaths": 0,
+				"cases_per_100k": 5.82583918565361,
+				"cases_per_population": 0.00582583918565361,
+				"BL": "Nordrhein-Westfalen",
+				"BL_ID": "5",
+				"county": "SK Hagen"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 16,
+				"deaths": 0,
+				"cases_per_100k": 8.93300802295783,
+				"cases_per_population": 0.00893300802295783,
+				"BL": "Nordrhein-Westfalen",
+				"BL_ID": "5",
+				"county": "SK Hamm"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 6,
+				"deaths": 0,
+				"cases_per_100k": 3.83695499251794,
+				"cases_per_population": 0.00383695499251794,
+				"BL": "Nordrhein-Westfalen",
+				"BL_ID": "5",
+				"county": "SK Herne"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 11,
+				"deaths": 0,
+				"cases_per_100k": 3.3919628980931,
+				"cases_per_population": 0.0033919628980931,
+				"BL": "Nordrhein-Westfalen",
+				"BL_ID": "5",
+				"county": "LK Ennepe-Ruhr-Kreis"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 60,
+				"deaths": 0,
+				"cases_per_100k": 23.0348401957961,
+				"cases_per_population": 0.0230348401957961,
+				"BL": "Nordrhein-Westfalen",
+				"BL_ID": "5",
+				"county": "LK Hochsauerlandkreis"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 31,
+				"deaths": 0,
+				"cases_per_100k": 7.5220809472969,
+				"cases_per_population": 0.0075220809472969,
+				"BL": "Nordrhein-Westfalen",
+				"BL_ID": "5",
+				"county": "LK Märkischer Kreis"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 9,
+				"deaths": 0,
+				"cases_per_100k": 6.67779632721202,
+				"cases_per_population": 0.00667779632721202,
+				"BL": "Nordrhein-Westfalen",
+				"BL_ID": "5",
+				"county": "LK Olpe"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 15,
+				"deaths": 0,
+				"cases_per_100k": 5.39161065382265,
+				"cases_per_population": 0.00539161065382265,
+				"BL": "Nordrhein-Westfalen",
+				"BL_ID": "5",
+				"county": "LK Siegen-Wittgenstein"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 12,
+				"deaths": 0,
+				"cases_per_100k": 3.97479976946161,
+				"cases_per_population": 0.00397479976946161,
+				"BL": "Nordrhein-Westfalen",
+				"BL_ID": "5",
+				"county": "LK Soest"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 15,
+				"deaths": 0,
+				"cases_per_100k": 3.79956532972628,
+				"cases_per_population": 0.00379956532972628,
+				"BL": "Nordrhein-Westfalen",
+				"BL_ID": "5",
+				"county": "LK Unna"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 23,
+				"deaths": 0,
+				"cases_per_100k": 14.4466009660379,
+				"cases_per_population": 0.0144466009660379,
+				"BL": "Hessen",
+				"BL_ID": "6",
+				"county": "SK Darmstadt"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 148,
+				"deaths": 0,
+				"cases_per_100k": 19.653252878936,
+				"cases_per_population": 0.019653252878936,
+				"BL": "Hessen",
+				"BL_ID": "6",
+				"county": "SK Frankfurt am Main"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 6,
+				"deaths": 0,
+				"cases_per_100k": 4.66041135897595,
+				"cases_per_population": 0.00466041135897595,
+				"BL": "Hessen",
+				"BL_ID": "6",
+				"county": "SK Offenbach"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 1.92307692307692,
+				"cases": 52,
+				"deaths": 1,
+				"cases_per_100k": 18.6820530139181,
+				"cases_per_population": 0.0186820530139181,
+				"BL": "Hessen",
+				"BL_ID": "6",
+				"county": "SK Wiesbaden"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 38,
+				"deaths": 0,
+				"cases_per_100k": 14.0900427892352,
+				"cases_per_population": 0.0140900427892352,
+				"BL": "Hessen",
+				"BL_ID": "6",
+				"county": "LK Bergstraße"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 62,
+				"deaths": 0,
+				"cases_per_100k": 20.8474137438256,
+				"cases_per_population": 0.0208474137438256,
+				"BL": "Hessen",
+				"BL_ID": "6",
+				"county": "LK Darmstadt-Dieburg"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 56,
+				"deaths": 0,
+				"cases_per_100k": 20.3987964710082,
+				"cases_per_population": 0.0203987964710082,
+				"BL": "Hessen",
+				"BL_ID": "6",
+				"county": "LK Groß-Gerau"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 51,
+				"deaths": 0,
+				"cases_per_100k": 21.5586479768688,
+				"cases_per_population": 0.0215586479768688,
+				"BL": "Hessen",
+				"BL_ID": "6",
+				"county": "LK Hochtaunuskreis"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 50,
+				"deaths": 0,
+				"cases_per_100k": 11.9345984007638,
+				"cases_per_population": 0.0119345984007638,
+				"BL": "Hessen",
+				"BL_ID": "6",
+				"county": "LK Main-Kinzig-Kreis"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 39,
+				"deaths": 0,
+				"cases_per_100k": 16.4048204934065,
+				"cases_per_population": 0.0164048204934065,
+				"BL": "Hessen",
+				"BL_ID": "6",
+				"county": "LK Main-Taunus-Kreis"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 15,
+				"deaths": 0,
+				"cases_per_100k": 15.4961879377673,
+				"cases_per_population": 0.0154961879377673,
+				"BL": "Hessen",
+				"BL_ID": "6",
+				"county": "LK Odenwaldkreis"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 2.27272727272727,
+				"cases": 44,
+				"deaths": 1,
+				"cases_per_100k": 12.4261491363826,
+				"cases_per_population": 0.0124261491363826,
+				"BL": "Hessen",
+				"BL_ID": "6",
+				"county": "LK Offenbach"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 31,
+				"deaths": 0,
+				"cases_per_100k": 16.5636337406562,
+				"cases_per_population": 0.0165636337406562,
+				"BL": "Hessen",
+				"BL_ID": "6",
+				"county": "LK Rheingau-Taunus-Kreis"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 38,
+				"deaths": 0,
+				"cases_per_100k": 12.3996606408667,
+				"cases_per_population": 0.0123996606408667,
+				"BL": "Hessen",
+				"BL_ID": "6",
+				"county": "LK Wetteraukreis"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 37,
+				"deaths": 0,
+				"cases_per_100k": 13.7609901962243,
+				"cases_per_population": 0.0137609901962243,
+				"BL": "Hessen",
+				"BL_ID": "6",
+				"county": "LK Gießen"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 32,
+				"deaths": 0,
+				"cases_per_100k": 12.6094957383845,
+				"cases_per_population": 0.0126094957383845,
+				"BL": "Hessen",
+				"BL_ID": "6",
+				"county": "LK Lahn-Dill-Kreis"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 44,
+				"deaths": 0,
+				"cases_per_100k": 25.5690567923618,
+				"cases_per_population": 0.0255690567923618,
+				"BL": "Hessen",
+				"BL_ID": "6",
+				"county": "LK Limburg-Weilburg"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 35,
+				"deaths": 0,
+				"cases_per_100k": 14.1902630469333,
+				"cases_per_population": 0.0141902630469333,
+				"BL": "Hessen",
+				"BL_ID": "6",
+				"county": "LK Marburg-Biedenkopf"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 17,
+				"deaths": 0,
+				"cases_per_100k": 16.0562156444209,
+				"cases_per_population": 0.0160562156444209,
+				"BL": "Hessen",
+				"BL_ID": "6",
+				"county": "LK Vogelsbergkreis"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 39,
+				"deaths": 0,
+				"cases_per_100k": 19.3466775801771,
+				"cases_per_population": 0.0193466775801771,
+				"BL": "Hessen",
+				"BL_ID": "6",
+				"county": "SK Kassel"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 76,
+				"deaths": 0,
+				"cases_per_100k": 34.1444128958056,
+				"cases_per_population": 0.0341444128958056,
+				"BL": "Hessen",
+				"BL_ID": "6",
+				"county": "LK Fulda"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 21,
+				"deaths": 0,
+				"cases_per_100k": 17.3799336252059,
+				"cases_per_population": 0.0173799336252059,
+				"BL": "Hessen",
+				"BL_ID": "6",
+				"county": "LK Hersfeld-Rotenburg"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 38,
+				"deaths": 0,
+				"cases_per_100k": 16.0586224237532,
+				"cases_per_population": 0.0160586224237532,
+				"BL": "Hessen",
+				"BL_ID": "6",
+				"county": "LK Kassel"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 56,
+				"deaths": 0,
+				"cases_per_100k": 31.0727880059038,
+				"cases_per_population": 0.0310727880059038,
+				"BL": "Hessen",
+				"BL_ID": "6",
+				"county": "LK Schwalm-Eder-Kreis"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 29,
+				"deaths": 0,
+				"cases_per_100k": 18.476868871573,
+				"cases_per_population": 0.018476868871573,
+				"BL": "Hessen",
+				"BL_ID": "6",
+				"county": "LK Waldeck-Frankenberg"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 3,
+				"deaths": 0,
+				"cases_per_100k": 2.96979716285378,
+				"cases_per_population": 0.00296979716285378,
+				"BL": "Hessen",
+				"BL_ID": "6",
+				"county": "LK Werra-Meißner-Kreis"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 36,
+				"deaths": 0,
+				"cases_per_100k": 31.5723005683014,
+				"cases_per_population": 0.0315723005683014,
+				"BL": "Rheinland-Pfalz",
+				"BL_ID": "7",
+				"county": "SK Koblenz"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 31,
+				"deaths": 0,
+				"cases_per_100k": 23.8963361520732,
+				"cases_per_population": 0.0238963361520732,
+				"BL": "Rheinland-Pfalz",
+				"BL_ID": "7",
+				"county": "LK Ahrweiler"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 4,
+				"deaths": 0,
+				"cases_per_100k": 3.10788236665242,
+				"cases_per_population": 0.00310788236665242,
+				"BL": "Rheinland-Pfalz",
+				"BL_ID": "7",
+				"county": "LK Altenkirchen"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 37,
+				"deaths": 0,
+				"cases_per_100k": 23.4058704453441,
+				"cases_per_population": 0.0234058704453441,
+				"BL": "Rheinland-Pfalz",
+				"BL_ID": "7",
+				"county": "LK Bad Kreuznach"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 5,
+				"deaths": 0,
+				"cases_per_100k": 6.19425173439049,
+				"cases_per_population": 0.00619425173439049,
+				"BL": "Rheinland-Pfalz",
+				"BL_ID": "7",
+				"county": "LK Birkenfeld"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 40,
+				"deaths": 0,
+				"cases_per_100k": 64.948771656356,
+				"cases_per_population": 0.064948771656356,
+				"BL": "Rheinland-Pfalz",
+				"BL_ID": "7",
+				"county": "LK Cochem-Zell"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 105,
+				"deaths": 0,
+				"cases_per_100k": 49.0061094283087,
+				"cases_per_population": 0.0490061094283087,
+				"BL": "Rheinland-Pfalz",
+				"BL_ID": "7",
+				"county": "LK Mayen-Koblenz"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 58,
+				"deaths": 0,
+				"cases_per_100k": 31.878466096152,
+				"cases_per_population": 0.0318784660961521,
+				"BL": "Rheinland-Pfalz",
+				"BL_ID": "7",
+				"county": "LK Neuwied"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 37,
+				"deaths": 0,
+				"cases_per_100k": 35.9443154550842,
+				"cases_per_population": 0.0359443154550842,
+				"BL": "Rheinland-Pfalz",
+				"BL_ID": "7",
+				"county": "LK Rhein-Hunsrück-Kreis"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 32,
+				"deaths": 0,
+				"cases_per_100k": 26.163456192563,
+				"cases_per_population": 0.026163456192563,
+				"BL": "Rheinland-Pfalz",
+				"BL_ID": "7",
+				"county": "LK Rhein-Lahn-Kreis"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 1.92307692307692,
+				"cases": 52,
+				"deaths": 1,
+				"cases_per_100k": 25.7940346334519,
+				"cases_per_population": 0.0257940346334519,
+				"BL": "Rheinland-Pfalz",
+				"BL_ID": "7",
+				"county": "LK Westerwaldkreis"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 11,
+				"deaths": 0,
+				"cases_per_100k": 9.94251419067935,
+				"cases_per_population": 0.00994251419067935,
+				"BL": "Rheinland-Pfalz",
+				"BL_ID": "7",
+				"county": "SK Trier"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 18,
+				"deaths": 0,
+				"cases_per_100k": 16.0339206499083,
+				"cases_per_population": 0.0160339206499082,
+				"BL": "Rheinland-Pfalz",
+				"BL_ID": "7",
+				"county": "LK Bernkastel-Wittlich"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 33,
+				"deaths": 0,
+				"cases_per_100k": 33.4818031472895,
+				"cases_per_population": 0.0334818031472895,
+				"BL": "Rheinland-Pfalz",
+				"BL_ID": "7",
+				"county": "LK Bitburg-Prüm"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 22,
+				"deaths": 0,
+				"cases_per_100k": 36.3018332425788,
+				"cases_per_population": 0.0363018332425788,
+				"BL": "Rheinland-Pfalz",
+				"BL_ID": "7",
+				"county": "LK Vulkaneifel"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 19,
+				"deaths": 0,
+				"cases_per_100k": 12.7563865856524,
+				"cases_per_population": 0.0127563865856524,
+				"BL": "Rheinland-Pfalz",
+				"BL_ID": "7",
+				"county": "LK Trier-Saarburg"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 10,
+				"deaths": 0,
+				"cases_per_100k": 20.5926566586355,
+				"cases_per_population": 0.0205926566586355,
+				"BL": "Rheinland-Pfalz",
+				"BL_ID": "7",
+				"county": "SK Frankenthal"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 14,
+				"deaths": 0,
+				"cases_per_100k": 14.0217336872152,
+				"cases_per_population": 0.0140217336872152,
+				"BL": "Rheinland-Pfalz",
+				"BL_ID": "7",
+				"county": "SK Kaiserslautern"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 5,
+				"deaths": 0,
+				"cases_per_100k": 10.7119137905178,
+				"cases_per_population": 0.0107119137905178,
+				"BL": "Rheinland-Pfalz",
+				"BL_ID": "7",
+				"county": "SK Landau i.d.Pfalz"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 17,
+				"deaths": 0,
+				"cases_per_100k": 9.93797534212942,
+				"cases_per_population": 0.00993797534212942,
+				"BL": "Rheinland-Pfalz",
+				"BL_ID": "7",
+				"county": "SK Ludwigshafen"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 58,
+				"deaths": 0,
+				"cases_per_100k": 26.7135843182048,
+				"cases_per_population": 0.0267135843182049,
+				"BL": "Rheinland-Pfalz",
+				"BL_ID": "7",
+				"county": "SK Mainz"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 7,
+				"deaths": 0,
+				"cases_per_100k": 13.1707684202604,
+				"cases_per_population": 0.0131707684202604,
+				"BL": "Rheinland-Pfalz",
+				"BL_ID": "7",
+				"county": "SK Neustadt a.d.Weinstraße"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 1,
+				"deaths": 0,
+				"cases_per_100k": 2.47506373289112,
+				"cases_per_population": 0.00247506373289112,
+				"BL": "Rheinland-Pfalz",
+				"BL_ID": "7",
+				"county": "SK Pirmasens"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 7,
+				"deaths": 0,
+				"cases_per_100k": 13.8949541466513,
+				"cases_per_population": 0.0138949541466513,
+				"BL": "Rheinland-Pfalz",
+				"BL_ID": "7",
+				"county": "SK Speyer"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 2,
+				"deaths": 0,
+				"cases_per_100k": 2.40009600384015,
+				"cases_per_population": 0.00240009600384015,
+				"BL": "Rheinland-Pfalz",
+				"BL_ID": "7",
+				"county": "SK Worms"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 1,
+				"deaths": 0,
+				"cases_per_100k": 2.92320734309685,
+				"cases_per_population": 0.00292320734309685,
+				"BL": "Rheinland-Pfalz",
+				"BL_ID": "7",
+				"county": "SK Zweibrücken"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 61,
+				"deaths": 0,
+				"cases_per_100k": 47.1975488223825,
+				"cases_per_population": 0.0471975488223825,
+				"BL": "Rheinland-Pfalz",
+				"BL_ID": "7",
+				"county": "LK Alzey-Worms"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 57,
+				"deaths": 0,
+				"cases_per_100k": 42.9669832654907,
+				"cases_per_population": 0.0429669832654907,
+				"BL": "Rheinland-Pfalz",
+				"BL_ID": "7",
+				"county": "LK Bad Dürkheim"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 17,
+				"deaths": 0,
+				"cases_per_100k": 22.6361832731921,
+				"cases_per_population": 0.0226361832731921,
+				"BL": "Rheinland-Pfalz",
+				"BL_ID": "7",
+				"county": "LK Donnersbergkreis"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 25,
+				"deaths": 0,
+				"cases_per_100k": 19.3685841564982,
+				"cases_per_population": 0.0193685841564982,
+				"BL": "Rheinland-Pfalz",
+				"BL_ID": "7",
+				"county": "LK Germersheim"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 13,
+				"deaths": 0,
+				"cases_per_100k": 12.2575596141697,
+				"cases_per_population": 0.0122575596141697,
+				"BL": "Rheinland-Pfalz",
+				"BL_ID": "7",
+				"county": "LK Kaiserslautern"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 19,
+				"deaths": 0,
+				"cases_per_100k": 26.9404191362051,
+				"cases_per_population": 0.0269404191362051,
+				"BL": "Rheinland-Pfalz",
+				"BL_ID": "7",
+				"county": "LK Kusel"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 26,
+				"deaths": 0,
+				"cases_per_100k": 23.560114538403,
+				"cases_per_population": 0.023560114538403,
+				"BL": "Rheinland-Pfalz",
+				"BL_ID": "7",
+				"county": "LK Südliche Weinstraße"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 9,
+				"deaths": 0,
+				"cases_per_100k": 5.83653802504523,
+				"cases_per_population": 0.00583653802504523,
+				"BL": "Rheinland-Pfalz",
+				"BL_ID": "7",
+				"county": "LK Rhein-Pfalz-Kreis"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 38,
+				"deaths": 0,
+				"cases_per_100k": 18.0189578403805,
+				"cases_per_population": 0.0180189578403805,
+				"BL": "Rheinland-Pfalz",
+				"BL_ID": "7",
+				"county": "LK Mainz-Bingen"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 11,
+				"deaths": 0,
+				"cases_per_100k": 11.5651908782185,
+				"cases_per_population": 0.0115651908782185,
+				"BL": "Rheinland-Pfalz",
+				"BL_ID": "7",
+				"county": "LK Südwestpfalz"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 308,
+				"deaths": 0,
+				"cases_per_100k": 48.5169257911567,
+				"cases_per_population": 0.0485169257911567,
+				"BL": "Baden-Württemberg",
+				"BL_ID": "8",
+				"county": "SK Stuttgart"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 67,
+				"deaths": 0,
+				"cases_per_100k": 17.1075477479318,
+				"cases_per_population": 0.0171075477479318,
+				"BL": "Baden-Württemberg",
+				"BL_ID": "8",
+				"county": "LK Böblingen"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0.62111801242236,
+				"cases": 322,
+				"deaths": 2,
+				"cases_per_100k": 60.315551484568,
+				"cases_per_population": 0.060315551484568,
+				"BL": "Baden-Württemberg",
+				"BL_ID": "8",
+				"county": "LK Esslingen"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0.909090909090909,
+				"cases": 110,
+				"deaths": 1,
+				"cases_per_100k": 42.7594624746845,
+				"cases_per_population": 0.0427594624746845,
+				"BL": "Baden-Württemberg",
+				"BL_ID": "8",
+				"county": "LK Göppingen"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 176,
+				"deaths": 0,
+				"cases_per_100k": 32.3538927615518,
+				"cases_per_population": 0.0323538927615518,
+				"BL": "Baden-Württemberg",
+				"BL_ID": "8",
+				"county": "LK Ludwigsburg"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0.847457627118644,
+				"cases": 118,
+				"deaths": 1,
+				"cases_per_100k": 27.6892607905988,
+				"cases_per_population": 0.0276892607905988,
+				"BL": "Baden-Württemberg",
+				"BL_ID": "8",
+				"county": "LK Rems-Murr-Kreis"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 18,
+				"deaths": 0,
+				"cases_per_100k": 14.2902508732931,
+				"cases_per_population": 0.0142902508732931,
+				"BL": "Baden-Württemberg",
+				"BL_ID": "8",
+				"county": "SK Heilbronn"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0.854700854700855,
+				"cases": 117,
+				"deaths": 1,
+				"cases_per_100k": 34.1040260239952,
+				"cases_per_population": 0.0341040260239952,
+				"BL": "Baden-Württemberg",
+				"BL_ID": "8",
+				"county": "LK Heilbronn"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0.546448087431694,
+				"cases": 183,
+				"deaths": 1,
+				"cases_per_100k": 163.37826979734,
+				"cases_per_population": 0.16337826979734,
+				"BL": "Baden-Württemberg",
+				"BL_ID": "8",
+				"county": "LK Hohenlohekreis"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 97,
+				"deaths": 0,
+				"cases_per_100k": 49.5249181817718,
+				"cases_per_population": 0.0495249181817718,
+				"BL": "Baden-Württemberg",
+				"BL_ID": "8",
+				"county": "LK Schwäbisch Hall"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 36,
+				"deaths": 0,
+				"cases_per_100k": 27.2065658512254,
+				"cases_per_population": 0.0272065658512254,
+				"BL": "Baden-Württemberg",
+				"BL_ID": "8",
+				"county": "LK Main-Tauber-Kreis"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 39,
+				"deaths": 0,
+				"cases_per_100k": 29.4401835859653,
+				"cases_per_population": 0.0294401835859653,
+				"BL": "Baden-Württemberg",
+				"BL_ID": "8",
+				"county": "LK Heidenheim"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 90,
+				"deaths": 0,
+				"cases_per_100k": 28.6622378201413,
+				"cases_per_population": 0.0286622378201413,
+				"BL": "Baden-Württemberg",
+				"BL_ID": "8",
+				"county": "LK Ostalbkreis"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 21,
+				"deaths": 0,
+				"cases_per_100k": 38.0966202855432,
+				"cases_per_population": 0.0380966202855432,
+				"BL": "Baden-Württemberg",
+				"BL_ID": "8",
+				"county": "SK Baden-Baden"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 42,
+				"deaths": 0,
+				"cases_per_100k": 13.4145874056188,
+				"cases_per_population": 0.0134145874056188,
+				"BL": "Baden-Württemberg",
+				"BL_ID": "8",
+				"county": "SK Karlsruhe"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 92,
+				"deaths": 0,
+				"cases_per_100k": 20.7098993318806,
+				"cases_per_population": 0.0207098993318806,
+				"BL": "Baden-Württemberg",
+				"BL_ID": "8",
+				"county": "LK Karlsruhe"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 81,
+				"deaths": 0,
+				"cases_per_100k": 35.062202945225,
+				"cases_per_population": 0.035062202945225,
+				"BL": "Baden-Württemberg",
+				"BL_ID": "8",
+				"county": "LK Rastatt"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 2,
+				"deaths": 0,
+				"cases_per_100k": 1.24723270244146,
+				"cases_per_population": 0.00124723270244146,
+				"BL": "Baden-Württemberg",
+				"BL_ID": "8",
+				"county": "SK Heidelberg"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 81,
+				"deaths": 0,
+				"cases_per_100k": 26.1822413291528,
+				"cases_per_population": 0.0261822413291528,
+				"BL": "Baden-Württemberg",
+				"BL_ID": "8",
+				"county": "SK Mannheim"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 30,
+				"deaths": 0,
+				"cases_per_100k": 20.9008255826105,
+				"cases_per_population": 0.0209008255826105,
+				"BL": "Baden-Württemberg",
+				"BL_ID": "8",
+				"county": "LK Neckar-Odenwald-Kreis"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 208,
+				"deaths": 0,
+				"cases_per_100k": 37.9821958456973,
+				"cases_per_population": 0.0379821958456973,
+				"BL": "Baden-Württemberg",
+				"BL_ID": "8",
+				"county": "LK Rhein-Neckar-Kreis"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 13,
+				"deaths": 0,
+				"cases_per_100k": 10.3551002851635,
+				"cases_per_population": 0.0103551002851635,
+				"BL": "Baden-Württemberg",
+				"BL_ID": "8",
+				"county": "SK Pforzheim"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 92,
+				"deaths": 0,
+				"cases_per_100k": 58.0819081169467,
+				"cases_per_population": 0.0580819081169467,
+				"BL": "Baden-Württemberg",
+				"BL_ID": "8",
+				"county": "LK Calw"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 24,
+				"deaths": 0,
+				"cases_per_100k": 12.0660616877404,
+				"cases_per_population": 0.0120660616877404,
+				"BL": "Baden-Württemberg",
+				"BL_ID": "8",
+				"county": "LK Enzkreis"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 14,
+				"deaths": 0,
+				"cases_per_100k": 11.8709458600076,
+				"cases_per_population": 0.0118709458600076,
+				"BL": "Baden-Württemberg",
+				"BL_ID": "8",
+				"county": "LK Freudenstadt"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 150,
+				"deaths": 0,
+				"cases_per_100k": 65.1491263502156,
+				"cases_per_population": 0.0651491263502156,
+				"BL": "Baden-Württemberg",
+				"BL_ID": "8",
+				"county": "SK Freiburg i.Breisgau"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 133,
+				"deaths": 0,
+				"cases_per_100k": 50.6097909016534,
+				"cases_per_population": 0.0506097909016534,
+				"BL": "Baden-Württemberg",
+				"BL_ID": "8",
+				"county": "LK Breisgau-Hochschwarzwald"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 3.6697247706422,
+				"cases": 109,
+				"deaths": 4,
+				"cases_per_100k": 65.9076204930374,
+				"cases_per_population": 0.0659076204930374,
+				"BL": "Baden-Württemberg",
+				"BL_ID": "8",
+				"county": "LK Emmendingen"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 2.7027027027027,
+				"cases": 74,
+				"deaths": 2,
+				"cases_per_100k": 17.2301788911681,
+				"cases_per_population": 0.0172301788911681,
+				"BL": "Baden-Württemberg",
+				"BL_ID": "8",
+				"county": "LK Ortenaukreis"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 14.2857142857143,
+				"cases": 7,
+				"deaths": 1,
+				"cases_per_100k": 5.01954035351906,
+				"cases_per_population": 0.00501954035351906,
+				"BL": "Baden-Württemberg",
+				"BL_ID": "8",
+				"county": "LK Rottweil"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 37,
+				"deaths": 0,
+				"cases_per_100k": 17.4215207575066,
+				"cases_per_population": 0.0174215207575066,
+				"BL": "Baden-Württemberg",
+				"BL_ID": "8",
+				"county": "LK Schwarzwald-Baar-Kreis"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 13,
+				"deaths": 0,
+				"cases_per_100k": 9.27564358696273,
+				"cases_per_population": 0.00927564358696273,
+				"BL": "Baden-Württemberg",
+				"BL_ID": "8",
+				"county": "LK Tuttlingen"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 52,
+				"deaths": 0,
+				"cases_per_100k": 18.2248313326908,
+				"cases_per_population": 0.0182248313326908,
+				"BL": "Baden-Württemberg",
+				"BL_ID": "8",
+				"county": "LK Konstanz"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 57,
+				"deaths": 0,
+				"cases_per_100k": 24.9301300303098,
+				"cases_per_population": 0.0249301300303098,
+				"BL": "Baden-Württemberg",
+				"BL_ID": "8",
+				"county": "LK Lörrach"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 7.69230769230769,
+				"cases": 13,
+				"deaths": 1,
+				"cases_per_100k": 7.61931555102304,
+				"cases_per_population": 0.00761931555102304,
+				"BL": "Baden-Württemberg",
+				"BL_ID": "8",
+				"county": "LK Waldshut"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 1.06382978723404,
+				"cases": 94,
+				"deaths": 1,
+				"cases_per_100k": 32.7813969059941,
+				"cases_per_population": 0.0327813969059941,
+				"BL": "Baden-Württemberg",
+				"BL_ID": "8",
+				"county": "LK Reutlingen"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 114,
+				"deaths": 0,
+				"cases_per_100k": 50.1471422727213,
+				"cases_per_population": 0.0501471422727213,
+				"BL": "Baden-Württemberg",
+				"BL_ID": "8",
+				"county": "LK Tübingen"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 70,
+				"deaths": 0,
+				"cases_per_100k": 37.0497790245322,
+				"cases_per_population": 0.0370497790245322,
+				"BL": "Baden-Württemberg",
+				"BL_ID": "8",
+				"county": "LK Zollernalbkreis"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 35,
+				"deaths": 0,
+				"cases_per_100k": 27.7054358065052,
+				"cases_per_population": 0.0277054358065052,
+				"BL": "Baden-Württemberg",
+				"BL_ID": "8",
+				"county": "SK Ulm"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 39,
+				"deaths": 0,
+				"cases_per_100k": 19.8931888781772,
+				"cases_per_population": 0.0198931888781772,
+				"BL": "Baden-Württemberg",
+				"BL_ID": "8",
+				"county": "LK Alb-Donau-Kreis"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 45,
+				"deaths": 0,
+				"cases_per_100k": 22.5290624906129,
+				"cases_per_population": 0.0225290624906129,
+				"BL": "Baden-Württemberg",
+				"BL_ID": "8",
+				"county": "LK Biberach"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 71,
+				"deaths": 0,
+				"cases_per_100k": 32.8358623113672,
+				"cases_per_population": 0.0328358623113672,
+				"BL": "Baden-Württemberg",
+				"BL_ID": "8",
+				"county": "LK Bodenseekreis"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 107,
+				"deaths": 0,
+				"cases_per_100k": 37.6382855233305,
+				"cases_per_population": 0.0376382855233305,
+				"BL": "Baden-Württemberg",
+				"BL_ID": "8",
+				"county": "LK Ravensburg"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 1.49253731343284,
+				"cases": 67,
+				"deaths": 1,
+				"cases_per_100k": 51.1946696415609,
+				"cases_per_population": 0.0511946696415609,
+				"BL": "Baden-Württemberg",
+				"BL_ID": "8",
+				"county": "LK Sigmaringen"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 5,
+				"deaths": 0,
+				"cases_per_100k": 3.65014126046678,
+				"cases_per_population": 0.00365014126046678,
+				"BL": "Bayern",
+				"BL_ID": "9",
+				"county": "SK Ingolstadt"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 584,
+				"deaths": 0,
+				"cases_per_100k": 39.6871780513596,
+				"cases_per_population": 0.0396871780513596,
+				"BL": "Bayern",
+				"BL_ID": "9",
+				"county": "SK München"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 1,
+				"deaths": 0,
+				"cases_per_100k": 1.57918008969743,
+				"cases_per_population": 0.00157918008969743,
+				"BL": "Bayern",
+				"BL_ID": "9",
+				"county": "SK Rosenheim"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 16,
+				"deaths": 0,
+				"cases_per_100k": 14.3871953960975,
+				"cases_per_population": 0.0143871953960975,
+				"BL": "Bayern",
+				"BL_ID": "9",
+				"county": "LK Altötting"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 6,
+				"deaths": 0,
+				"cases_per_100k": 5.67526153496907,
+				"cases_per_population": 0.00567526153496907,
+				"BL": "Bayern",
+				"BL_ID": "9",
+				"county": "LK Berchtesgadener Land"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 38,
+				"deaths": 0,
+				"cases_per_100k": 29.8678739575719,
+				"cases_per_population": 0.0298678739575719,
+				"BL": "Bayern",
+				"BL_ID": "9",
+				"county": "LK Bad Tölz-Wolfratshausen"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 45,
+				"deaths": 0,
+				"cases_per_100k": 29.2428062696577,
+				"cases_per_population": 0.0292428062696577,
+				"BL": "Bayern",
+				"BL_ID": "9",
+				"county": "LK Dachau"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 41,
+				"deaths": 0,
+				"cases_per_100k": 28.8443950415781,
+				"cases_per_population": 0.0288443950415781,
+				"BL": "Bayern",
+				"BL_ID": "9",
+				"county": "LK Ebersberg"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 15,
+				"deaths": 0,
+				"cases_per_100k": 11.3343559441141,
+				"cases_per_population": 0.0113343559441141,
+				"BL": "Bayern",
+				"BL_ID": "9",
+				"county": "LK Eichstätt"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 46,
+				"deaths": 0,
+				"cases_per_100k": 33.4156617753886,
+				"cases_per_population": 0.0334156617753886,
+				"BL": "Bayern",
+				"BL_ID": "9",
+				"county": "LK Erding"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 1.17647058823529,
+				"cases": 85,
+				"deaths": 1,
+				"cases_per_100k": 47.4552803769624,
+				"cases_per_population": 0.0474552803769624,
+				"BL": "Bayern",
+				"BL_ID": "9",
+				"county": "LK Freising"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 46,
+				"deaths": 0,
+				"cases_per_100k": 20.9739193871968,
+				"cases_per_population": 0.0209739193871968,
+				"BL": "Bayern",
+				"BL_ID": "9",
+				"county": "LK Fürstenfeldbruck"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 20,
+				"deaths": 0,
+				"cases_per_100k": 22.6072998971368,
+				"cases_per_population": 0.0226072998971368,
+				"BL": "Bayern",
+				"BL_ID": "9",
+				"county": "LK Garmisch-Partenkirchen"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 5.88235294117647,
+				"cases": 17,
+				"deaths": 1,
+				"cases_per_100k": 14.1582896786068,
+				"cases_per_population": 0.0141582896786068,
+				"BL": "Bayern",
+				"BL_ID": "9",
+				"county": "LK Landsberg a.Lech"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 61,
+				"deaths": 0,
+				"cases_per_100k": 61.1675992218679,
+				"cases_per_population": 0.0611675992218679,
+				"BL": "Bayern",
+				"BL_ID": "9",
+				"county": "LK Miesbach"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 16,
+				"deaths": 0,
+				"cases_per_100k": 13.882863340564,
+				"cases_per_population": 0.013882863340564,
+				"BL": "Bayern",
+				"BL_ID": "9",
+				"county": "LK Mühldorf a.Inn"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 194,
+				"deaths": 0,
+				"cases_per_100k": 55.6079467768889,
+				"cases_per_population": 0.0556079467768889,
+				"BL": "Bayern",
+				"BL_ID": "9",
+				"county": "LK München"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 21,
+				"deaths": 0,
+				"cases_per_100k": 21.7211419114605,
+				"cases_per_population": 0.0217211419114605,
+				"BL": "Bayern",
+				"BL_ID": "9",
+				"county": "LK Neuburg-Schrobenhausen"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 18,
+				"deaths": 0,
+				"cases_per_100k": 14.1563967251536,
+				"cases_per_population": 0.0141563967251536,
+				"BL": "Bayern",
+				"BL_ID": "9",
+				"county": "LK Pfaffenhofen a.d.Ilm"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 100,
+				"deaths": 0,
+				"cases_per_100k": 38.3166719671396,
+				"cases_per_population": 0.0383166719671396,
+				"BL": "Bayern",
+				"BL_ID": "9",
+				"county": "LK Rosenheim"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 1.20481927710843,
+				"cases": 83,
+				"deaths": 1,
+				"cases_per_100k": 60.9881550715692,
+				"cases_per_population": 0.0609881550715692,
+				"BL": "Bayern",
+				"BL_ID": "9",
+				"county": "LK Starnberg"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 2.56410256410256,
+				"cases": 39,
+				"deaths": 1,
+				"cases_per_100k": 22.0228246813749,
+				"cases_per_population": 0.0220228246813749,
+				"BL": "Bayern",
+				"BL_ID": "9",
+				"county": "LK Traunstein"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 1.78571428571429,
+				"cases": 56,
+				"deaths": 1,
+				"cases_per_100k": 41.3748263734965,
+				"cases_per_population": 0.0413748263734965,
+				"BL": "Bayern",
+				"BL_ID": "9",
+				"county": "LK Weilheim-Schongau"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 28,
+				"deaths": 0,
+				"cases_per_100k": 38.6718965802994,
+				"cases_per_population": 0.0386718965802994,
+				"BL": "Bayern",
+				"BL_ID": "9",
+				"county": "SK Landshut"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 6,
+				"deaths": 0,
+				"cases_per_100k": 11.4353237149555,
+				"cases_per_population": 0.0114353237149555,
+				"BL": "Bayern",
+				"BL_ID": "9",
+				"county": "SK Passau"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 20,
+				"deaths": 0,
+				"cases_per_100k": 41.8462568523246,
+				"cases_per_population": 0.0418462568523246,
+				"BL": "Bayern",
+				"BL_ID": "9",
+				"county": "SK Straubing"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 45,
+				"deaths": 0,
+				"cases_per_100k": 37.711814692523,
+				"cases_per_population": 0.037711814692523,
+				"BL": "Bayern",
+				"BL_ID": "9",
+				"county": "LK Deggendorf"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 13,
+				"deaths": 0,
+				"cases_per_100k": 16.5911556378023,
+				"cases_per_population": 0.0165911556378023,
+				"BL": "Bayern",
+				"BL_ID": "9",
+				"county": "LK Freyung-Grafenau"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 28,
+				"deaths": 0,
+				"cases_per_100k": 22.9023867558769,
+				"cases_per_population": 0.0229023867558769,
+				"BL": "Bayern",
+				"BL_ID": "9",
+				"county": "LK Kelheim"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 68,
+				"deaths": 0,
+				"cases_per_100k": 42.8486811427995,
+				"cases_per_population": 0.0428486811427995,
+				"BL": "Bayern",
+				"BL_ID": "9",
+				"county": "LK Landshut"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 25,
+				"deaths": 0,
+				"cases_per_100k": 13.0179178621455,
+				"cases_per_population": 0.0130179178621455,
+				"BL": "Bayern",
+				"BL_ID": "9",
+				"county": "LK Passau"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 24,
+				"deaths": 0,
+				"cases_per_100k": 30.9055320902442,
+				"cases_per_population": 0.0309055320902442,
+				"BL": "Bayern",
+				"BL_ID": "9",
+				"county": "LK Regen"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 55,
+				"deaths": 0,
+				"cases_per_100k": 45.583006655119,
+				"cases_per_population": 0.045583006655119,
+				"BL": "Bayern",
+				"BL_ID": "9",
+				"county": "LK Rottal-Inn"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 20,
+				"deaths": 0,
+				"cases_per_100k": 19.8710369700643,
+				"cases_per_population": 0.0198710369700643,
+				"BL": "Bayern",
+				"BL_ID": "9",
+				"county": "LK Straubing-Bogen"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 30,
+				"deaths": 0,
+				"cases_per_100k": 31.1795212904165,
+				"cases_per_population": 0.0311795212904165,
+				"BL": "Bayern",
+				"BL_ID": "9",
+				"county": "LK Dingolfing-Landau"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 2,
+				"deaths": 0,
+				"cases_per_100k": 4.76530855372885,
+				"cases_per_population": 0.00476530855372885,
+				"BL": "Bayern",
+				"BL_ID": "9",
+				"county": "SK Amberg"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 20,
+				"deaths": 0,
+				"cases_per_100k": 13.1053010942926,
+				"cases_per_population": 0.0131053010942926,
+				"BL": "Bayern",
+				"BL_ID": "9",
+				"county": "SK Regensburg"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 7,
+				"deaths": 0,
+				"cases_per_100k": 16.4628410159925,
+				"cases_per_population": 0.0164628410159925,
+				"BL": "Bayern",
+				"BL_ID": "9",
+				"county": "SK Weiden i.d.OPf."
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 18,
+				"deaths": 0,
+				"cases_per_100k": 17.4572539739499,
+				"cases_per_population": 0.0174572539739499,
+				"BL": "Bayern",
+				"BL_ID": "9",
+				"county": "LK Amberg-Sulzbach"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 41,
+				"deaths": 0,
+				"cases_per_100k": 32.0608060555825,
+				"cases_per_population": 0.0320608060555825,
+				"BL": "Bayern",
+				"BL_ID": "9",
+				"county": "LK Cham"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 18,
+				"deaths": 0,
+				"cases_per_100k": 13.4769880429167,
+				"cases_per_population": 0.0134769880429167,
+				"BL": "Bayern",
+				"BL_ID": "9",
+				"county": "LK Neumarkt i.d.OPf."
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 3,
+				"deaths": 0,
+				"cases_per_100k": 3.17958283873156,
+				"cases_per_population": 0.00317958283873156,
+				"BL": "Bayern",
+				"BL_ID": "9",
+				"county": "LK Neustadt a.d.Waldnaab"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 18,
+				"deaths": 0,
+				"cases_per_100k": 9.29886553840431,
+				"cases_per_population": 0.00929886553840431,
+				"BL": "Bayern",
+				"BL_ID": "9",
+				"county": "LK Regensburg"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 0,
+				"deaths": 0,
+				"cases_per_100k": 0,
+				"cases_per_population": 0,
+				"BL": "Bayern",
+				"BL_ID": "9",
+				"county": "LK Schwandorf"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 1.53846153846154,
+				"cases": 65,
+				"deaths": 1,
+				"cases_per_100k": 89.6502261944169,
+				"cases_per_population": 0.0896502261944169,
+				"BL": "Bayern",
+				"BL_ID": "9",
+				"county": "LK Tirschenreuth"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 2,
+				"deaths": 0,
+				"cases_per_100k": 2.57758531807403,
+				"cases_per_population": 0.00257758531807403,
+				"BL": "Bayern",
+				"BL_ID": "9",
+				"county": "SK Bamberg"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 4,
+				"deaths": 0,
+				"cases_per_100k": 5.35783650561903,
+				"cases_per_population": 0.00535783650561903,
+				"BL": "Bayern",
+				"BL_ID": "9",
+				"county": "SK Bayreuth"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 0,
+				"deaths": 0,
+				"cases_per_100k": 0,
+				"cases_per_population": 0,
+				"BL": "Bayern",
+				"BL_ID": "9",
+				"county": "SK Coburg"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 8,
+				"deaths": 0,
+				"cases_per_100k": 17.4178097104289,
+				"cases_per_population": 0.0174178097104289,
+				"BL": "Bayern",
+				"BL_ID": "9",
+				"county": "SK Hof"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 28,
+				"deaths": 0,
+				"cases_per_100k": 19.0364820581157,
+				"cases_per_population": 0.0190364820581157,
+				"BL": "Bayern",
+				"BL_ID": "9",
+				"county": "LK Bamberg"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 20,
+				"deaths": 0,
+				"cases_per_100k": 19.2945897970209,
+				"cases_per_population": 0.0192945897970209,
+				"BL": "Bayern",
+				"BL_ID": "9",
+				"county": "LK Bayreuth"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 22,
+				"deaths": 0,
+				"cases_per_100k": 25.3147078452581,
+				"cases_per_population": 0.0253147078452581,
+				"BL": "Bayern",
+				"BL_ID": "9",
+				"county": "LK Coburg"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 19,
+				"deaths": 0,
+				"cases_per_100k": 16.3653433707439,
+				"cases_per_population": 0.0163653433707439,
+				"BL": "Bayern",
+				"BL_ID": "9",
+				"county": "LK Forchheim"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 19,
+				"deaths": 0,
+				"cases_per_100k": 19.9347399565633,
+				"cases_per_population": 0.0199347399565633,
+				"BL": "Bayern",
+				"BL_ID": "9",
+				"county": "LK Hof"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 13,
+				"deaths": 0,
+				"cases_per_100k": 19.3639681239294,
+				"cases_per_population": 0.0193639681239294,
+				"BL": "Bayern",
+				"BL_ID": "9",
+				"county": "LK Kronach"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 13,
+				"deaths": 0,
+				"cases_per_100k": 18.0945090124574,
+				"cases_per_population": 0.0180945090124574,
+				"BL": "Bayern",
+				"BL_ID": "9",
+				"county": "LK Kulmbach"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 7,
+				"deaths": 0,
+				"cases_per_100k": 10.4730841736737,
+				"cases_per_population": 0.0104730841736737,
+				"BL": "Bayern",
+				"BL_ID": "9",
+				"county": "LK Lichtenfels"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 4.76190476190476,
+				"cases": 21,
+				"deaths": 1,
+				"cases_per_100k": 28.6971494164913,
+				"cases_per_population": 0.0286971494164913,
+				"BL": "Bayern",
+				"BL_ID": "9",
+				"county": "LK Wunsiedel i.Fichtelgebirge"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 3,
+				"deaths": 0,
+				"cases_per_100k": 7.16897268621407,
+				"cases_per_population": 0.00716897268621406,
+				"BL": "Bayern",
+				"BL_ID": "9",
+				"county": "SK Ansbach"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 17,
+				"deaths": 0,
+				"cases_per_100k": 15.1837230488916,
+				"cases_per_population": 0.0151837230488916,
+				"BL": "Bayern",
+				"BL_ID": "9",
+				"county": "SK Erlangen"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 17,
+				"deaths": 0,
+				"cases_per_100k": 13.3074490402981,
+				"cases_per_population": 0.0133074490402981,
+				"BL": "Bayern",
+				"BL_ID": "9",
+				"county": "SK Fürth"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 67,
+				"deaths": 0,
+				"cases_per_100k": 12.9252553702507,
+				"cases_per_population": 0.0129252553702507,
+				"BL": "Bayern",
+				"BL_ID": "9",
+				"county": "SK Nürnberg"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 8,
+				"deaths": 0,
+				"cases_per_100k": 19.6116885663856,
+				"cases_per_population": 0.0196116885663856,
+				"BL": "Bayern",
+				"BL_ID": "9",
+				"county": "SK Schwabach"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 16,
+				"deaths": 0,
+				"cases_per_100k": 8.69806305008454,
+				"cases_per_population": 0.00869806305008453,
+				"BL": "Bayern",
+				"BL_ID": "9",
+				"county": "LK Ansbach"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 20,
+				"deaths": 0,
+				"cases_per_100k": 14.6766369953989,
+				"cases_per_population": 0.0146766369953989,
+				"BL": "Bayern",
+				"BL_ID": "9",
+				"county": "LK Erlangen-Höchstadt"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 14,
+				"deaths": 0,
+				"cases_per_100k": 11.9263632259109,
+				"cases_per_population": 0.0119263632259109,
+				"BL": "Bayern",
+				"BL_ID": "9",
+				"county": "LK Fürth"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 40,
+				"deaths": 0,
+				"cases_per_100k": 23.4790009685088,
+				"cases_per_population": 0.0234790009685088,
+				"BL": "Bayern",
+				"BL_ID": "9",
+				"county": "LK Nürnberger Land"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 9,
+				"deaths": 0,
+				"cases_per_100k": 8.96735881391734,
+				"cases_per_population": 0.00896735881391734,
+				"BL": "Bayern",
+				"BL_ID": "9",
+				"county": "LK Neustadt a.d.Aisch-Bad Windsheim"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 11,
+				"deaths": 0,
+				"cases_per_100k": 8.66428267616062,
+				"cases_per_population": 0.00866428267616062,
+				"BL": "Bayern",
+				"BL_ID": "9",
+				"county": "LK Roth"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 8,
+				"deaths": 0,
+				"cases_per_100k": 8.47520472916424,
+				"cases_per_population": 0.00847520472916424,
+				"BL": "Bayern",
+				"BL_ID": "9",
+				"county": "LK Weißenburg-Gunzenhausen"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 17,
+				"deaths": 0,
+				"cases_per_100k": 24.1042437647993,
+				"cases_per_population": 0.0241042437647993,
+				"BL": "Bayern",
+				"BL_ID": "9",
+				"county": "SK Aschaffenburg"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 0,
+				"deaths": 0,
+				"cases_per_100k": 0,
+				"cases_per_population": 0,
+				"BL": "Bayern",
+				"BL_ID": "9",
+				"county": "SK Schweinfurt"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 33.3333333333333,
+				"cases": 18,
+				"deaths": 6,
+				"cases_per_100k": 14.0756959649672,
+				"cases_per_population": 0.0140756959649672,
+				"BL": "Bayern",
+				"BL_ID": "9",
+				"county": "SK Würzburg"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 39,
+				"deaths": 0,
+				"cases_per_100k": 22.3870315944159,
+				"cases_per_population": 0.0223870315944159,
+				"BL": "Bayern",
+				"BL_ID": "9",
+				"county": "LK Aschaffenburg"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 14,
+				"deaths": 0,
+				"cases_per_100k": 13.5635257416342,
+				"cases_per_population": 0.0135635257416342,
+				"BL": "Bayern",
+				"BL_ID": "9",
+				"county": "LK Bad Kissingen"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 11,
+				"deaths": 0,
+				"cases_per_100k": 13.8034885180073,
+				"cases_per_population": 0.0138034885180073,
+				"BL": "Bayern",
+				"BL_ID": "9",
+				"county": "LK Rhön-Grabfeld"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 14,
+				"deaths": 0,
+				"cases_per_100k": 16.5486589676001,
+				"cases_per_population": 0.0165486589676001,
+				"BL": "Bayern",
+				"BL_ID": "9",
+				"county": "LK Haßberge"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 6,
+				"deaths": 0,
+				"cases_per_100k": 6.6000066000066008,
+				"cases_per_population": 0.0066000066000066,
+				"BL": "Bayern",
+				"BL_ID": "9",
+				"county": "LK Kitzingen"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 19,
+				"deaths": 0,
+				"cases_per_100k": 14.7565938674703,
+				"cases_per_population": 0.0147565938674703,
+				"BL": "Bayern",
+				"BL_ID": "9",
+				"county": "LK Miltenberg"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 11,
+				"deaths": 0,
+				"cases_per_100k": 8.70494203299964,
+				"cases_per_population": 0.00870494203299964,
+				"BL": "Bayern",
+				"BL_ID": "9",
+				"county": "LK Main-Spessart"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 4,
+				"deaths": 0,
+				"cases_per_100k": 3.47505777283547,
+				"cases_per_population": 0.00347505777283547,
+				"BL": "Bayern",
+				"BL_ID": "9",
+				"county": "LK Schweinfurt"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 30,
+				"cases": 10,
+				"deaths": 3,
+				"cases_per_100k": 6.17917124955201,
+				"cases_per_population": 0.00617917124955201,
+				"BL": "Bayern",
+				"BL_ID": "9",
+				"county": "LK Würzburg"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 38,
+				"deaths": 0,
+				"cases_per_100k": 12.8754637708167,
+				"cases_per_population": 0.0128754637708167,
+				"BL": "Bayern",
+				"BL_ID": "9",
+				"county": "SK Augsburg"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 0,
+				"deaths": 0,
+				"cases_per_100k": 0,
+				"cases_per_population": 0,
+				"BL": "Bayern",
+				"BL_ID": "9",
+				"county": "SK Kaufbeuren"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 0,
+				"deaths": 0,
+				"cases_per_100k": 0,
+				"cases_per_population": 0,
+				"BL": "Bayern",
+				"BL_ID": "9",
+				"county": "SK Kempten (Allgäu)"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 14,
+				"deaths": 0,
+				"cases_per_100k": 31.9364920044711,
+				"cases_per_population": 0.0319364920044711,
+				"BL": "Bayern",
+				"BL_ID": "9",
+				"county": "SK Memmingen"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 15,
+				"deaths": 0,
+				"cases_per_100k": 11.2278810742837,
+				"cases_per_population": 0.0112278810742837,
+				"BL": "Bayern",
+				"BL_ID": "9",
+				"county": "LK Aichach-Friedberg"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 47,
+				"deaths": 0,
+				"cases_per_100k": 18.6853467125717,
+				"cases_per_population": 0.0186853467125717,
+				"BL": "Bayern",
+				"BL_ID": "9",
+				"county": "LK Augsburg"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 6,
+				"deaths": 0,
+				"cases_per_100k": 6.24863311150686,
+				"cases_per_population": 0.00624863311150686,
+				"BL": "Bayern",
+				"BL_ID": "9",
+				"county": "LK Dillingen a.d.Donau"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 12,
+				"deaths": 0,
+				"cases_per_100k": 9.54297120408439,
+				"cases_per_population": 0.00954297120408439,
+				"BL": "Bayern",
+				"BL_ID": "9",
+				"county": "LK Günzburg"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 3.44827586206897,
+				"cases": 29,
+				"deaths": 1,
+				"cases_per_100k": 16.6475315729047,
+				"cases_per_population": 0.0166475315729047,
+				"BL": "Bayern",
+				"BL_ID": "9",
+				"county": "LK Neu-Ulm"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 34,
+				"deaths": 0,
+				"cases_per_100k": 41.6314635908362,
+				"cases_per_population": 0.0416314635908362,
+				"BL": "Bayern",
+				"BL_ID": "9",
+				"county": "LK Lindau"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 5,
+				"deaths": 0,
+				"cases_per_100k": 3.56338550129707,
+				"cases_per_population": 0.00356338550129707,
+				"BL": "Bayern",
+				"BL_ID": "9",
+				"county": "LK Ostallgäu"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 22,
+				"deaths": 0,
+				"cases_per_100k": 15.2734290931054,
+				"cases_per_population": 0.0152734290931054,
+				"BL": "Bayern",
+				"BL_ID": "9",
+				"county": "LK Unterallgäu"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 10,
+				"deaths": 0,
+				"cases_per_100k": 7.49086114939773,
+				"cases_per_population": 0.00749086114939773,
+				"BL": "Bayern",
+				"BL_ID": "9",
+				"county": "LK Donau-Ries"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 3.84615384615385,
+				"cases": 52,
+				"deaths": 2,
+				"cases_per_100k": 33.4702179426114,
+				"cases_per_population": 0.0334702179426115,
+				"BL": "Bayern",
+				"BL_ID": "9",
+				"county": "LK Oberallgäu"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 80,
+				"deaths": 0,
+				"cases_per_100k": 24.2638941123661,
+				"cases_per_population": 0.0242638941123661,
+				"BL": "Saarland",
+				"BL_ID": "10",
+				"county": "LK Stadtverband Saarbrücken"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 1,
+				"deaths": 0,
+				"cases_per_100k": 0.967436100845539,
+				"cases_per_population": 0.000967436100845539,
+				"BL": "Saarland",
+				"BL_ID": "10",
+				"county": "LK Merzig-Wadern"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 25,
+				"deaths": 0,
+				"cases_per_100k": 18.9098830612832,
+				"cases_per_population": 0.0189098830612831,
+				"BL": "Saarland",
+				"BL_ID": "10",
+				"county": "LK Neunkirchen"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 24,
+				"deaths": 0,
+				"cases_per_100k": 12.2950189804356,
+				"cases_per_population": 0.0122950189804356,
+				"BL": "Saarland",
+				"BL_ID": "10",
+				"county": "LK Saarlouis"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 28,
+				"deaths": 0,
+				"cases_per_100k": 19.6310759932974,
+				"cases_per_population": 0.0196310759932974,
+				"BL": "Saarland",
+				"BL_ID": "10",
+				"county": "LK Saar-Pfalz-Kreis"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 29,
+				"deaths": 0,
+				"cases_per_100k": 33.1819169994393,
+				"cases_per_population": 0.0331819169994393,
+				"BL": "Saarland",
+				"BL_ID": "10",
+				"county": "LK Sankt Wendel"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 3,
+				"deaths": 0,
+				"cases_per_100k": 4.15950307803228,
+				"cases_per_population": 0.00415950307803228,
+				"BL": "Brandenburg",
+				"BL_ID": "12",
+				"county": "SK Brandenburg a.d.Havel"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 20,
+				"deaths": 0,
+				"cases_per_100k": 19.9562957123899,
+				"cases_per_population": 0.0199562957123899,
+				"BL": "Brandenburg",
+				"BL_ID": "12",
+				"county": "SK Cottbus"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 3,
+				"deaths": 0,
+				"cases_per_100k": 5.1837644497434,
+				"cases_per_population": 0.0051837644497434,
+				"BL": "Brandenburg",
+				"BL_ID": "12",
+				"county": "SK Frankfurt (Oder)"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 22,
+				"deaths": 0,
+				"cases_per_100k": 12.3533738748603,
+				"cases_per_population": 0.0123533738748603,
+				"BL": "Brandenburg",
+				"BL_ID": "12",
+				"county": "SK Potsdam"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 29,
+				"deaths": 0,
+				"cases_per_100k": 15.8678047712847,
+				"cases_per_population": 0.0158678047712847,
+				"BL": "Brandenburg",
+				"BL_ID": "12",
+				"county": "LK Barnim"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 16,
+				"deaths": 0,
+				"cases_per_100k": 9.46370373875446,
+				"cases_per_population": 0.00946370373875446,
+				"BL": "Brandenburg",
+				"BL_ID": "12",
+				"county": "LK Dahme-Spreewald"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 8,
+				"deaths": 0,
+				"cases_per_100k": 7.79438414622265,
+				"cases_per_population": 0.00779438414622265,
+				"BL": "Brandenburg",
+				"BL_ID": "12",
+				"county": "LK Elbe-Elster"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 10,
+				"deaths": 0,
+				"cases_per_100k": 6.17630891426666,
+				"cases_per_population": 0.00617630891426666,
+				"BL": "Brandenburg",
+				"BL_ID": "12",
+				"county": "LK Havelland"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 23,
+				"deaths": 0,
+				"cases_per_100k": 11.8356592976823,
+				"cases_per_population": 0.0118356592976823,
+				"BL": "Brandenburg",
+				"BL_ID": "12",
+				"county": "LK Märkisch-Oderland"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 23,
+				"deaths": 0,
+				"cases_per_100k": 10.8876255035527,
+				"cases_per_population": 0.0108876255035527,
+				"BL": "Brandenburg",
+				"BL_ID": "12",
+				"county": "LK Oberhavel"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 5,
+				"deaths": 0,
+				"cases_per_100k": 4.52586987218943,
+				"cases_per_population": 0.00452586987218943,
+				"BL": "Brandenburg",
+				"BL_ID": "12",
+				"county": "LK Oberspreewald-Lausitz"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 32,
+				"deaths": 0,
+				"cases_per_100k": 17.9113165937154,
+				"cases_per_population": 0.0179113165937154,
+				"BL": "Brandenburg",
+				"BL_ID": "12",
+				"county": "LK Oder-Spree"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 6,
+				"deaths": 0,
+				"cases_per_100k": 6.05583479682674,
+				"cases_per_population": 0.00605583479682674,
+				"BL": "Brandenburg",
+				"BL_ID": "12",
+				"county": "LK Ostprignitz-Ruppin"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 12,
+				"deaths": 0,
+				"cases_per_100k": 5.59013155442925,
+				"cases_per_population": 0.00559013155442925,
+				"BL": "Brandenburg",
+				"BL_ID": "12",
+				"county": "LK Potsdam-Mittelmark"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 0,
+				"deaths": 0,
+				"cases_per_100k": 0,
+				"cases_per_population": 0,
+				"BL": "Brandenburg",
+				"BL_ID": "12",
+				"county": "LK Prignitz"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 25,
+				"deaths": 0,
+				"cases_per_100k": 21.8476085607669,
+				"cases_per_population": 0.0218476085607669,
+				"BL": "Brandenburg",
+				"BL_ID": "12",
+				"county": "LK Spree-Neiße"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 13,
+				"deaths": 0,
+				"cases_per_100k": 7.7244854304321,
+				"cases_per_population": 0.0077244854304321,
+				"BL": "Brandenburg",
+				"BL_ID": "12",
+				"county": "LK Teltow-Fläming"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 4,
+				"deaths": 0,
+				"cases_per_100k": 3.3458244111349,
+				"cases_per_population": 0.0033458244111349,
+				"BL": "Brandenburg",
+				"BL_ID": "12",
+				"county": "LK Uckermark"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 22,
+				"deaths": 0,
+				"cases_per_100k": 10.5320605497736,
+				"cases_per_population": 0.0105320605497736,
+				"BL": "Mecklenburg-Vorpommern",
+				"BL_ID": "13",
+				"county": "SK Rostock"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 33,
+				"deaths": 0,
+				"cases_per_100k": 34.4402930555845,
+				"cases_per_population": 0.0344402930555845,
+				"BL": "Mecklenburg-Vorpommern",
+				"BL_ID": "13",
+				"county": "SK Schwerin"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 23,
+				"deaths": 0,
+				"cases_per_100k": 8.87585381854668,
+				"cases_per_population": 0.00887585381854667,
+				"BL": "Mecklenburg-Vorpommern",
+				"BL_ID": "13",
+				"county": "LK Mecklenburgische Seenplatte"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 17,
+				"deaths": 0,
+				"cases_per_100k": 7.90282316735855,
+				"cases_per_population": 0.00790282316735855,
+				"BL": "Mecklenburg-Vorpommern",
+				"BL_ID": "13",
+				"county": "LK Rostock"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 12,
+				"deaths": 0,
+				"cases_per_100k": 5.34083423830802,
+				"cases_per_population": 0.00534083423830802,
+				"BL": "Mecklenburg-Vorpommern",
+				"BL_ID": "13",
+				"county": "LK Vorpommern-Rügen"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 17,
+				"deaths": 0,
+				"cases_per_100k": 10.8467482086914,
+				"cases_per_population": 0.0108467482086914,
+				"BL": "Mecklenburg-Vorpommern",
+				"BL_ID": "13",
+				"county": "LK Nordwestmecklenburg"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 23,
+				"deaths": 0,
+				"cases_per_100k": 9.71706443258681,
+				"cases_per_population": 0.00971706443258681,
+				"BL": "Mecklenburg-Vorpommern",
+				"BL_ID": "13",
+				"county": "LK Vorpommern-Greifswald"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 18,
+				"deaths": 0,
+				"cases_per_100k": 8.46588717794354,
+				"cases_per_population": 0.00846588717794354,
+				"BL": "Mecklenburg-Vorpommern",
+				"BL_ID": "13",
+				"county": "LK Ludwigslust-Parchim"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 37,
+				"deaths": 0,
+				"cases_per_100k": 14.9653975739877,
+				"cases_per_population": 0.0149653975739877,
+				"BL": "Sachsen",
+				"BL_ID": "14",
+				"county": "SK Chemnitz"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 27,
+				"deaths": 0,
+				"cases_per_100k": 7.99535677058656,
+				"cases_per_population": 0.00799535677058656,
+				"BL": "Sachsen",
+				"BL_ID": "14",
+				"county": "LK Erzgebirgskreis"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 24,
+				"deaths": 0,
+				"cases_per_100k": 7.83839835393635,
+				"cases_per_population": 0.00783839835393635,
+				"BL": "Sachsen",
+				"BL_ID": "14",
+				"county": "LK Mittelsachsen"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 16,
+				"deaths": 0,
+				"cases_per_100k": 7.02382833763543,
+				"cases_per_population": 0.00702382833763543,
+				"BL": "Sachsen",
+				"BL_ID": "14",
+				"county": "LK Vogtlandkreis"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 115,
+				"deaths": 0,
+				"cases_per_100k": 36.216936299133,
+				"cases_per_population": 0.036216936299133,
+				"BL": "Sachsen",
+				"BL_ID": "14",
+				"county": "LK Zwickau"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 65,
+				"deaths": 0,
+				"cases_per_100k": 11.7191232653444,
+				"cases_per_population": 0.0117191232653444,
+				"BL": "Sachsen",
+				"BL_ID": "14",
+				"county": "SK Dresden"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 50,
+				"deaths": 0,
+				"cases_per_100k": 16.6179207657538,
+				"cases_per_population": 0.0166179207657538,
+				"BL": "Sachsen",
+				"BL_ID": "14",
+				"county": "LK Bautzen"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 12,
+				"deaths": 0,
+				"cases_per_100k": 4.70783933713622,
+				"cases_per_population": 0.00470783933713622,
+				"BL": "Sachsen",
+				"BL_ID": "14",
+				"county": "LK Görlitz"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 20,
+				"deaths": 0,
+				"cases_per_100k": 8.25883178824355,
+				"cases_per_population": 0.00825883178824355,
+				"BL": "Sachsen",
+				"BL_ID": "14",
+				"county": "LK Meißen"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 40,
+				"deaths": 0,
+				"cases_per_100k": 16.2859155330991,
+				"cases_per_population": 0.0162859155330991,
+				"BL": "Sachsen",
+				"BL_ID": "14",
+				"county": "LK Sächsische Schweiz-Osterzgebirge"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 121,
+				"deaths": 0,
+				"cases_per_100k": 20.583237079766,
+				"cases_per_population": 0.020583237079766,
+				"BL": "Sachsen",
+				"BL_ID": "14",
+				"county": "SK Leipzig"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 31,
+				"deaths": 0,
+				"cases_per_100k": 12.0265515221347,
+				"cases_per_population": 0.0120265515221347,
+				"BL": "Sachsen",
+				"BL_ID": "14",
+				"county": "LK Leipzig"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 9,
+				"deaths": 0,
+				"cases_per_100k": 4.55297385075352,
+				"cases_per_population": 0.00455297385075352,
+				"BL": "Sachsen",
+				"BL_ID": "14",
+				"county": "LK Nordsachsen"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 5,
+				"deaths": 0,
+				"cases_per_100k": 6.15483092679444,
+				"cases_per_population": 0.00615483092679444,
+				"BL": "Sachsen-Anhalt",
+				"BL_ID": "15",
+				"county": "SK Dessau-Roßlau"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 2.27272727272727,
+				"cases": 44,
+				"deaths": 1,
+				"cases_per_100k": 18.3902665334766,
+				"cases_per_population": 0.0183902665334766,
+				"BL": "Sachsen-Anhalt",
+				"BL_ID": "15",
+				"county": "SK Halle"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 29,
+				"deaths": 0,
+				"cases_per_100k": 12.1492938746612,
+				"cases_per_population": 0.0121492938746612,
+				"BL": "Sachsen-Anhalt",
+				"BL_ID": "15",
+				"county": "SK Magdeburg"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 3,
+				"deaths": 0,
+				"cases_per_100k": 3.58144809884797,
+				"cases_per_population": 0.00358144809884797,
+				"BL": "Sachsen-Anhalt",
+				"BL_ID": "15",
+				"county": "LK Altmarkkreis Salzwedel"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 8,
+				"deaths": 0,
+				"cases_per_100k": 5.00456666708371,
+				"cases_per_population": 0.00500456666708371,
+				"BL": "Sachsen-Anhalt",
+				"BL_ID": "15",
+				"county": "LK Anhalt-Bitterfeld"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 25,
+				"deaths": 0,
+				"cases_per_100k": 14.5573969045151,
+				"cases_per_population": 0.0145573969045151,
+				"BL": "Sachsen-Anhalt",
+				"BL_ID": "15",
+				"county": "LK Börde"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 14,
+				"deaths": 0,
+				"cases_per_100k": 7.76957655807758,
+				"cases_per_population": 0.00776957655807759,
+				"BL": "Sachsen-Anhalt",
+				"BL_ID": "15",
+				"county": "LK Burgenlandkreis"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 12,
+				"deaths": 0,
+				"cases_per_100k": 5.5958143308805,
+				"cases_per_population": 0.0055958143308805,
+				"BL": "Sachsen-Anhalt",
+				"BL_ID": "15",
+				"county": "LK Harz"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 3,
+				"deaths": 0,
+				"cases_per_100k": 3.33600213504137,
+				"cases_per_population": 0.00333600213504137,
+				"BL": "Sachsen-Anhalt",
+				"BL_ID": "15",
+				"county": "LK Jerichower Land"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 5,
+				"deaths": 0,
+				"cases_per_100k": 3.66975170459967,
+				"cases_per_population": 0.00366975170459967,
+				"BL": "Sachsen-Anhalt",
+				"BL_ID": "15",
+				"county": "LK Mansfeld-Südharz"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 12,
+				"deaths": 0,
+				"cases_per_100k": 6.50117562925962,
+				"cases_per_population": 0.00650117562925963,
+				"BL": "Sachsen-Anhalt",
+				"BL_ID": "15",
+				"county": "LK Saalekreis"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 13,
+				"deaths": 0,
+				"cases_per_100k": 6.82199832073888,
+				"cases_per_population": 0.00682199832073887,
+				"BL": "Sachsen-Anhalt",
+				"BL_ID": "15",
+				"county": "LK Salzlandkreis"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 7,
+				"deaths": 0,
+				"cases_per_100k": 6.25100462574342,
+				"cases_per_population": 0.00625100462574342,
+				"BL": "Sachsen-Anhalt",
+				"BL_ID": "15",
+				"county": "LK Stendal"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 8,
+				"deaths": 0,
+				"cases_per_100k": 6.35727908455181,
+				"cases_per_population": 0.00635727908455181,
+				"BL": "Sachsen-Anhalt",
+				"BL_ID": "15",
+				"county": "LK Wittenberg"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 27,
+				"deaths": 0,
+				"cases_per_100k": 12.6345935170497,
+				"cases_per_population": 0.0126345935170497,
+				"BL": "Thüringen",
+				"BL_ID": "16",
+				"county": "SK Erfurt"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 4,
+				"deaths": 0,
+				"cases_per_100k": 4.24844931599966,
+				"cases_per_population": 0.00424844931599966,
+				"BL": "Thüringen",
+				"BL_ID": "16",
+				"county": "SK Gera"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 13,
+				"deaths": 0,
+				"cases_per_100k": 11.6689256509914,
+				"cases_per_population": 0.0116689256509914,
+				"BL": "Thüringen",
+				"BL_ID": "16",
+				"county": "SK Jena"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 2,
+				"deaths": 0,
+				"cases_per_100k": 5.74135208841682,
+				"cases_per_population": 0.00574135208841682,
+				"BL": "Thüringen",
+				"BL_ID": "16",
+				"county": "SK Suhl"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 10,
+				"deaths": 0,
+				"cases_per_100k": 15.3633430634506,
+				"cases_per_population": 0.0153633430634506,
+				"BL": "Thüringen",
+				"BL_ID": "16",
+				"county": "SK Weimar"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 1,
+				"deaths": 0,
+				"cases_per_100k": 2.36016049091338,
+				"cases_per_population": 0.00236016049091338,
+				"BL": "Thüringen",
+				"BL_ID": "16",
+				"county": "SK Eisenach"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 7,
+				"deaths": 0,
+				"cases_per_100k": 6.97350069735007,
+				"cases_per_population": 0.00697350069735007,
+				"BL": "Thüringen",
+				"BL_ID": "16",
+				"county": "LK Eichsfeld"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 3,
+				"deaths": 0,
+				"cases_per_100k": 3.57901266970485,
+				"cases_per_population": 0.00357901266970485,
+				"BL": "Thüringen",
+				"BL_ID": "16",
+				"county": "LK Nordhausen"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 4,
+				"deaths": 0,
+				"cases_per_100k": 3.2513716724243,
+				"cases_per_population": 0.0032513716724243,
+				"BL": "Thüringen",
+				"BL_ID": "16",
+				"county": "LK Wartburgkreis"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 5,
+				"deaths": 0,
+				"cases_per_100k": 4.85851990049751,
+				"cases_per_population": 0.00485851990049751,
+				"BL": "Thüringen",
+				"BL_ID": "16",
+				"county": "LK Unstrut-Hainich-Kreis"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 11,
+				"deaths": 0,
+				"cases_per_100k": 14.6649068778413,
+				"cases_per_population": 0.0146649068778413,
+				"BL": "Thüringen",
+				"BL_ID": "16",
+				"county": "LK Kyffhäuserkreis"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 13,
+				"deaths": 0,
+				"cases_per_100k": 10.6255159505341,
+				"cases_per_population": 0.0106255159505341,
+				"BL": "Thüringen",
+				"BL_ID": "16",
+				"county": "LK Schmalkalden-Meiningen"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 4,
+				"deaths": 0,
+				"cases_per_100k": 2.95307562826684,
+				"cases_per_population": 0.00295307562826684,
+				"BL": "Thüringen",
+				"BL_ID": "16",
+				"county": "LK Gotha"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 2,
+				"deaths": 0,
+				"cases_per_100k": 2.87129423587682,
+				"cases_per_population": 0.00287129423587682,
+				"BL": "Thüringen",
+				"BL_ID": "16",
+				"county": "LK Sömmerda"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 1,
+				"deaths": 0,
+				"cases_per_100k": 1.57348984312306,
+				"cases_per_population": 0.00157348984312306,
+				"BL": "Thüringen",
+				"BL_ID": "16",
+				"county": "LK Hildburghausen"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 5,
+				"deaths": 0,
+				"cases_per_100k": 4.59803939600155,
+				"cases_per_population": 0.00459803939600154,
+				"BL": "Thüringen",
+				"BL_ID": "16",
+				"county": "LK Ilm-Kreis"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 9,
+				"deaths": 0,
+				"cases_per_100k": 10.9827083358756,
+				"cases_per_population": 0.0109827083358756,
+				"BL": "Thüringen",
+				"BL_ID": "16",
+				"county": "LK Weimarer Land"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 0,
+				"deaths": 0,
+				"cases_per_100k": 0,
+				"cases_per_population": 0,
+				"BL": "Thüringen",
+				"BL_ID": "16",
+				"county": "LK Sonneberg"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 12,
+				"deaths": 0,
+				"cases_per_100k": 11.2828613336342,
+				"cases_per_population": 0.0112828613336342,
+				"BL": "Thüringen",
+				"BL_ID": "16",
+				"county": "LK Saalfeld-Rudolstadt"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 13,
+				"deaths": 0,
+				"cases_per_100k": 15.653032474022,
+				"cases_per_population": 0.015653032474022,
+				"BL": "Thüringen",
+				"BL_ID": "16",
+				"county": "LK Saale-Holzland-Kreis"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 7,
+				"deaths": 0,
+				"cases_per_100k": 8.65608151555622,
+				"cases_per_population": 0.00865608151555622,
+				"BL": "Thüringen",
+				"BL_ID": "16",
+				"county": "LK Saale-Orla-Kreis"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 30,
+				"deaths": 0,
+				"cases_per_100k": 30.5626585437912,
+				"cases_per_population": 0.0305626585437912,
+				"BL": "Thüringen",
+				"BL_ID": "16",
+				"county": "LK Greiz"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 4,
+				"deaths": 0,
+				"cases_per_100k": 4.43862491400164,
+				"cases_per_population": 0.00443862491400164,
+				"BL": "Thüringen",
+				"BL_ID": "16",
+				"county": "LK Altenburger Land"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 1.75438596491228,
+				"cases": 57,
+				"deaths": 1,
+				"cases_per_100k": 21.4911867282496,
+				"cases_per_population": 0.0214911867282496,
+				"BL": "Berlin",
+				"BL_ID": "11",
+				"county": "SK Berlin Reinickendorf"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 124,
+				"deaths": 0,
+				"cases_per_100k": 36.2221469217017,
+				"cases_per_population": 0.0362221469217017,
+				"BL": "Berlin",
+				"BL_ID": "11",
+				"county": "SK Berlin Charlottenburg-Wilmersdorf"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 51,
+				"deaths": 0,
+				"cases_per_100k": 18.8085693317057,
+				"cases_per_population": 0.0188085693317057,
+				"BL": "Berlin",
+				"BL_ID": "11",
+				"county": "SK Berlin Treptow-Köpenick"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 81,
+				"deaths": 0,
+				"cases_per_100k": 19.8643826713916,
+				"cases_per_population": 0.0198643826713916,
+				"BL": "Berlin",
+				"BL_ID": "11",
+				"county": "SK Berlin Pankow"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 78,
+				"deaths": 0,
+				"cases_per_100k": 23.6585166110085,
+				"cases_per_population": 0.0236585166110085,
+				"BL": "Berlin",
+				"BL_ID": "11",
+				"county": "SK Berlin Neukölln"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 35,
+				"deaths": 0,
+				"cases_per_100k": 12.0088385051398,
+				"cases_per_population": 0.0120088385051398,
+				"BL": "Berlin",
+				"BL_ID": "11",
+				"county": "SK Berlin Lichtenberg"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 26,
+				"deaths": 0,
+				"cases_per_100k": 9.681695637279,
+				"cases_per_population": 0.009681695637279,
+				"BL": "Berlin",
+				"BL_ID": "11",
+				"county": "SK Berlin Marzahn-Hellersdorf"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 23,
+				"deaths": 0,
+				"cases_per_100k": 9.42711812998766,
+				"cases_per_population": 0.00942711812998766,
+				"BL": "Berlin",
+				"BL_ID": "11",
+				"county": "SK Berlin Spandau"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 70,
+				"deaths": 0,
+				"cases_per_100k": 22.6759573303272,
+				"cases_per_population": 0.0226759573303271,
+				"BL": "Berlin",
+				"BL_ID": "11",
+				"county": "SK Berlin Steglitz-Zehlendorf"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 133,
+				"deaths": 0,
+				"cases_per_100k": 34.6199098320544,
+				"cases_per_population": 0.0346199098320544,
+				"BL": "Berlin",
+				"BL_ID": "11",
+				"county": "SK Berlin Mitte"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 93,
+				"deaths": 0,
+				"cases_per_100k": 32.0953058026932,
+				"cases_per_population": 0.0320953058026932,
+				"BL": "Berlin",
+				"BL_ID": "11",
+				"county": "SK Berlin Friedrichshain-Kreuzberg"
+			}
+		},
+		{
+			"attributes": {
+				"death_rate": 0,
+				"cases": 95,
+				"deaths": 0,
+				"cases_per_100k": 27.0159593224966,
+				"cases_per_population": 0.0270159593224966,
+				"BL": "Berlin",
+				"BL_ID": "11",
+				"county": "SK Berlin Tempelhof-Schöneberg"
+			}
+		}
+	]
+}
